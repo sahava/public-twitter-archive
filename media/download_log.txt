@@ -1,0 +1,804 @@
+  1/792 media/1593889838561886209-Fh6Pq5nXwAANsEn.jpg: SUCCESS. New version is   3% larger in bytes and   7% larger in pixels. 0.0MB downloaded
+  2/792 media/1592776773829537793-kgZX11zQ1NuQQ3L7.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  3/792 media/1576103569849131009-Fd9wuJMXEAEm0QN.jpg: SUCCESS. New version is 278% larger in bytes and 555% larger in pixels. 0.1MB downloaded
+  4/792 media/1576103560978173952-Fd9wqrpWIAAtC1k.jpg: SUCCESS. New version is 134% larger in bytes and 241% larger in pixels. 0.1MB downloaded
+  5/792 media/1576103553818832896-Fd9wmjKXkAAkg53.jpg: SUCCESS. New version is 145% larger in bytes and 282% larger in pixels. 0.1MB downloaded
+  6/792 media/1576103546613006336-Fd9wjNiWYAEq1mQ.jpg: SUCCESS. New version is  25% larger in bytes and  36% larger in pixels. 0.1MB downloaded
+  7/792 media/1576103540980060160-Fd9wfqtXEAEdype.jpg: SUCCESS. New version is  27% larger in bytes and  46% larger in pixels. 0.1MB downloaded
+  8/792 media/1576103535003209728-Fd9wcIlWAAA-eUv.jpg: SUCCESS. New version is  32% larger in bytes and  42% larger in pixels. 0.1MB downloaded
+  9/792 media/1576103528103555072-Fd9wYtlWYAIP6u5.jpg: SUCCESS. New version is 107% larger in bytes and 188% larger in pixels. 0.1MB downloaded
+ 10/792 media/1576103521354600448-Fd9wVHUWAAEdg2l.jpg: SUCCESS. New version is  36% larger in bytes and  44% larger in pixels. 0.1MB downloaded
+ 11/792 media/1575764737740111872-Fd49rSqXgAE7OYc.jpg: SUCCESS. New version is  32% larger in bytes and  60% larger in pixels. 0.2MB downloaded
+ 12/792 media/1575067808563662852-FdvD0gCXwAE_qar.jpg: SUCCESS. New version is  74% larger in bytes and 143% larger in pixels. 0.2MB downloaded
+ 13/792 media/1355067432528965634-Es4qo-lXUAIdwhq.jpg: SUCCESS. New version is 117% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 14/792 media/1354009307059281920-Espn5E9XEAEBliM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 15/792 media/1353972027116449792-EspGX_KXcAElLOv.jpg: SUCCESS. New version is 646% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+ 16/792 media/1353399382738145280-Esg9fVRU4AIGveX.jpg: SUCCESS. New version is  83% larger in bytes and 125% larger in pixels. 0.2MB downloaded
+ 17/792 media/1352522182337945601-EsUftrLXMAA0g43.jpg: SUCCESS. New version is 415% larger in bytes and 791% larger in pixels. 0.5MB downloaded
+ 18/792 media/1351397268776230913-EsCsx_IUYAILjKi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 19/792 media/1348920240651055105-ErhTttoW4AAcTgN.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 20/792 media/1348915204562804737-ErhO-r0XUAEyfJv.jpg: SUCCESS. New version is 649% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+ 21/792 media/1343849260626763776-EqZPr7tXUAEU5C4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 22/792 media/1336576084482134016-Eox43AsXEAA8Fkh.jpg: SUCCESS. New version is  70% larger in bytes and 127% larger in pixels. 0.1MB downloaded
+ 23/792 media/1335585699685429248-Eoj0HL_W4AEM1q-.jpg: SUCCESS. New version is 129% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 24/792 media/1332729965184491524-En7O1etW4AA_hWo.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 25/792 media/1575038566354546688-FdupOHeWIAE1vRE.jpg: SUCCESS. New version is  64% larger in bytes and 128% larger in pixels. 0.1MB downloaded
+ 26/792 media/1571520441919078402-Fc3jfxcacAcFwiW.jpg: SUCCESS. New version is  21% larger in bytes and  32% larger in pixels. 0.1MB downloaded
+ 27/792 media/1324583814476300288-EmHd872W0AEiskN.jpg: SUCCESS. New version is 112% larger in bytes and 267% larger in pixels. 0.1MB downloaded
+ 28/792 media/1323658675026874369-El6UinZW0AcIbBL.jpg: SUCCESS. New version is  36% larger in bytes and  69% larger in pixels. 0.0MB downloaded
+ 29/792 media/1321502128473575426-ElbrK4qWMAE9rJw.jpg: SUCCESS. New version is   9% larger in bytes and  18% larger in pixels. 0.1MB downloaded
+ 30/792 media/1321501801271730181-Elbq38yXYAYimLc.jpg: SUCCESS. New version is 131% larger in bytes and 299% larger in pixels. 0.0MB downloaded
+ 31/792 media/1321322242492563462-ElZHkukXYAI-Yz0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 32/792 media/1321321135884161025-ElZGjwZWMAQuV7f.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 33/792 media/1319675062518239232-ElBtUZAXIAE70RY.jpg: SUCCESS. New version is 135% larger in bytes and 307% larger in pixels. 0.1MB downloaded
+ 34/792 media/1319496626084392961-Ek_LL8TWkAAnjU_.jpg: SUCCESS. New version is  52% larger in bytes and 123% larger in pixels. 0.0MB downloaded
+ 35/792 media/1318964229936906240-Ek3m-S5WAAE3KCz.jpg: SUCCESS. New version is  30% larger in bytes and 100% larger in pixels. 0.1MB downloaded
+ 36/792 media/1318897229642518532-Ek2qALAXUAAIPQN.jpg: SUCCESS. New version is 229% larger in bytes and 300% larger in pixels. 0.5MB downloaded
+ 37/792 media/1316957472071077888-EkbFq3cXgAAzQlK.jpg: SUCCESS. New version is 167% larger in bytes and 358% larger in pixels. 0.1MB downloaded
+ 38/792 media/1313851829571252224-Eju9Rc1X0AAT50C.jpg: SUCCESS. New version is 135% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 39/792 media/1313831245110022146-Ejuqf7OXcAAqTbW.jpg: SUCCESS. New version is 150% larger in bytes and 216% larger in pixels. 0.3MB downloaded
+ 40/792 media/1313815906334765057-EjuJxZAWAAAfWNb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 41/792 media/1311523947498831875-EjNt37VVcAIL3ST.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 42/792 media/1309546609211052032-EixxrnHWkAI1GTT.jpg: SUCCESS. New version is 587% larger in bytes and 443% larger in pixels. 0.8MB downloaded
+ 43/792 media/1306452354913402880-EiFzfZ7WsAA9jkL.jpg: SUCCESS. New version is  64% larger in bytes and 123% larger in pixels. 0.1MB downloaded
+ 44/792 media/1306277414478241792-EiDUQmiXgAQSpMF.jpg: SUCCESS. New version is 188% larger in bytes and 456% larger in pixels. 0.1MB downloaded
+ 45/792 media/1304359920091922432-EhoEQAgWkAcfDv6.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 46/792 media/1304352525777334273-Ehn9tB3X0AAYs7A.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 47/792 media/1302095989327589383-EhGe7epWoAYkCv0.jpg: SUCCESS. New version is 102% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+ 48/792 media/1301468349218643969-CN9vSVLUAAAHezZ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 49/792 media/1565031058131001345-FbgbctrWQAE4W_P.jpg: SUCCESS. New version is  93% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 50/792 media/1564568388139159552-FbZ2p2wX0AMmiZP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 51/792 media/1564197713197113349-FbUlhq7X0AAK438.jpg: SUCCESS. New version is 104% larger in bytes and 174% larger in pixels. 0.1MB downloaded
+ 52/792 media/1563776619629711362-FbJBjCgVQAAIDgj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 53/792 media/1293617897584185355-EfPYRUVXoAAPqNy.jpg: SUCCESS. New version is  29% larger in bytes and  57% larger in pixels. 0.1MB downloaded
+ 54/792 media/1292717320767504386-EfCner_WoAAvzmq.jpg: SUCCESS. New version is 137% larger in bytes and 268% larger in pixels. 0.1MB downloaded
+ 55/792 media/1284168630356316166-IO8QdPYW5saee-Ir.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 56/792 media/1281881152576540675-EconPFkXoBAKshU.png: SUCCESS. New version is 248% larger in bytes and 230% larger in pixels. 0.5MB downloaded
+ 57/792 media/1562370023498297344-Fa6nP0DXkAArjhw.jpg: SUCCESS. New version is   8% larger in bytes and   9% larger in pixels. 0.0MB downloaded
+ 58/792 media/1562363137307078657-Fa6gvBUXEAAVXeo.jpg: SUCCESS. New version is   8% larger in bytes and  12% larger in pixels. 0.0MB downloaded
+ 59/792 media/1561929103330131969-Fa0WPRzWAAAnmCP.jpg: SUCCESS. New version is  85% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+ 60/792 media/1561929103330131969-Fa0WPR2WAAEXJ37.jpg: SUCCESS. New version is  80% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+ 61/792 media/1561436552626061313-ucL6HMxTo5oDoRmb.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 62/792 media/1560994383801077764-FaiqFdLaAAEntu0.jpg: SUCCESS. New version is 888% larger in bytes and 175% larger in pixels. 1.5MB downloaded
+ 63/792 media/1276184865977884674-EbXjpRFXgAAE9Zx.jpg: SUCCESS. New version is   4% larger in bytes and  16% larger in pixels. 0.1MB downloaded
+ 64/792 media/1276090254336851968-EbWVT3FX0AAfnx-.jpg: SUCCESS. New version is 101% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 65/792 media/1273654215882215425-EaztrrbWkAA0acQ.jpg: SUCCESS. New version is  56% larger in bytes and 137% larger in pixels. 0.1MB downloaded
+ 66/792 media/1273654215882215425-EaztuotWkAY7qnR.jpg: SUCCESS. New version is  41% larger in bytes and  95% larger in pixels. 0.0MB downloaded
+ 67/792 media/1273654215882215425-EaztvXjXsAAv97H.jpg: SUCCESS. New version is 109% larger in bytes and 178% larger in pixels. 0.2MB downloaded
+ 68/792 media/1273654215882215425-Eaztv_yWoAY_ajU.jpg: SUCCESS. New version is  93% larger in bytes and 189% larger in pixels. 0.1MB downloaded
+ 69/792 media/1270800781307006977-EaLKkj0XYAAp_ki.jpg: SUCCESS. New version is  24% larger in bytes and  78% larger in pixels. 0.3MB downloaded
+ 70/792 media/1270800781307006977-EaLKkj6XkAMJQgC.jpg: SUCCESS. New version is  38% larger in bytes and  78% larger in pixels. 0.5MB downloaded
+ 71/792 media/1270292689393782786-EaD8dnBXkAAxRSn.jpg: SUCCESS. New version is  87% larger in bytes and 182% larger in pixels. 0.1MB downloaded
+ 72/792 media/1268807016086147072-EZu1PtRXgAEMjgw.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 73/792 media/1265929288848678915-EZF75FKXgAEVjFS.png: SUCCESS. New version is  18% larger in bytes and 233% larger in pixels. 0.2MB downloaded
+ 74/792 media/1263022367212802048-EYbqPBAXsAMQF4w.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 75/792 media/1263018701298810881-EYckyrUWkAIb2gX.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 76/792 media/1261190219656769536-EYClyhJWkAAbqeM.jpg: SUCCESS. New version is  23% larger in bytes and  65% larger in pixels. 0.0MB downloaded
+ 77/792 media/1261190219656769536-EYClzHJWAAEwHOG.jpg: SUCCESS. New version is  47% larger in bytes and 123% larger in pixels. 0.1MB downloaded
+ 78/792 media/1258293895626199040-EXZbkLMWAAE95gC.png: SUCCESS. New version is 155% larger in bytes and 807% larger in pixels. 0.2MB downloaded
+ 79/792 media/1256438898835836930-EW_Eg9LWoAA1Hd3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 80/792 media/1560680300321308672-FaimdQmX0AYQl8u.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 81/792 media/1560150336727392259-FabEaCMXkAAFU8U.jpg: SUCCESS. New version is 173% larger in bytes and 365% larger in pixels. 0.2MB downloaded
+ 82/792 media/1253737780338995201-EWYrvK0XkAUf5e1.jpg: SUCCESS. New version is 237% larger in bytes and 607% larger in pixels. 0.1MB downloaded
+ 83/792 media/1246137389946265607-EUsrTf4XQAEUSXr.jpg: SUCCESS. New version is 672% larger in bytes and 1718% larger in pixels. 0.5MB downloaded
+ 84/792 media/1245732651035738113-EUm2jv6XkAMRhgc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 85/792 media/1244846015762571266-EUaU2DYXsAEhNHA.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 86/792 media/1237473866198499330-ESxj6vLX0AAVtr2.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 87/792 media/1237472827420413968-ESxi-RXXsAsRaqr.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 88/792 media/1559939304713060353-FaYEh31WIAImcoo.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 89/792 media/1559905951905366016-FaXmMaPXgAAIhgi.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 90/792 media/1234749391594049537-ESK180yWAAIVLXM.jpg: SUCCESS. New version is 110% larger in bytes and 102% larger in pixels. 0.1MB downloaded
+ 91/792 media/1233805534618357760-ER8bPXcXsAA7niF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+ 92/792 media/1228982944523530240-EQ4NR8PUEAAagMM.jpg: SUCCESS. New version is 370% larger in bytes and 924% larger in pixels. 0.3MB downloaded
+ 93/792 media/1227955815706963968-EQqTSCgXsAA2wp5.jpg: SUCCESS. New version is 123% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 94/792 media/1227955446578925568-EQqS8zLWsAAbgVz.jpg: SUCCESS. New version is 114% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 95/792 media/1227955283101724673-EQqSzKGWsAElgoP.jpg: SUCCESS. New version is 115% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+ 96/792 media/1227955056584118272-EQqSl-QW4AIKa54.jpg: SUCCESS. New version is 128% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 97/792 media/1227954800677072897-EQqSW11WAAAJEHQ.jpg: SUCCESS. New version is 122% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 98/792 media/1227953948335726592-EQqRlNjXkAA2wXY.jpg: SUCCESS. New version is 112% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+ 99/792 media/1227866824458604545-EQpCW5YWsAIGQbu.jpg: SUCCESS. New version is 136% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+100/792 media/1226054970010750977-EQG1NgMXkAMXPhP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+101/792 media/1224745943989354496-EP8r8MEXkAApMhZ.jpg: SUCCESS. New version is 127% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+102/792 media/1224730278318526466-EP8dsa7WoAASZpP.jpg: SUCCESS. New version is 103% larger in bytes and 245% larger in pixels. 0.1MB downloaded
+103/792 media/1223507269104611328-EPrFX8rXsAAO2wT.jpg: SUCCESS. New version is  62% larger in bytes and 123% larger in pixels. 0.2MB downloaded
+104/792 media/1559459742644408321-FaRQImGXwAMdpgn.jpg: SUCCESS. New version is  72% larger in bytes and 138% larger in pixels. 0.0MB downloaded
+105/792 media/1558043291987369984-FZ9IGONXEAErzMo.jpg: SUCCESS. New version is  53% larger in bytes and 104% larger in pixels. 0.1MB downloaded
+106/792 media/1222790646244704256-EPg5mxyW4AE9EK2.jpg: SUCCESS. New version is 112% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+107/792 media/1222664664393437184-EPeZKsZX0AA6akX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+108/792 media/1222664664393437184-EPeZKsbWAAI9GxI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+109/792 media/1218427743358128128-EOgqesIWkAIKlkq.png: SUCCESS. New version is actually  66% smaller in bytes but  35% larger in pixels. 0.1MB downloaded
+110/792 media/1216788450378121216-cgPSJlUmVsJNGxK3.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/amplify_video/1216779469601624069/vid/1280x720/cgPSJlUmVsJNGxK3.mp4?tag=13 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+111/792 media/1216257899422502912-EOEEEqpXsAAJoXI.jpg: SUCCESS. New version is  86% larger in bytes and 167% larger in pixels. 0.2MB downloaded
+112/792 media/1211911798720548864-ENGA-axXkAE_tLf.jpg: SUCCESS. New version is   5% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+113/792 media/1211911798720548864-ENGA-anXkAcTAsY.jpg: SUCCESS. New version is   3% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+114/792 media/1210200865522499590-EMt_RUyWwAICGkT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+115/792 media/1207341341505658880-EMFWjIeX0AEil4q.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+116/792 media/1196709041327747073-EJuQdBaXsAE3JF0.png: SUCCESS. New version is actually  68% smaller in bytes but 172% larger in pixels. 0.1MB downloaded
+117/792 media/1191309820772724737-EIhhoHNX0AIin0p.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+118/792 media/1190127029674545152-EIPFNgfWkAA9uzf.jpg: SUCCESS. New version is 141% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+119/792 media/1553607055302352896-FY22o69WQAI3qP1.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+120/792 media/1553233669044817920-LQMwcGxIuASNSWhg.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/amplify_video/1553126822178603008/vid/1280x720/LQMwcGxIuASNSWhg.mp4?tag=14 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+121/792 media/1189544041282768897-EIIb_5SWoAEv3Wp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+122/792 media/1179406094885703681-EF4Xlo9WkAALcPr.jpg: SUCCESS. New version is 228% larger in bytes and 559% larger in pixels. 0.2MB downloaded
+123/792 media/1178974552807878656-EFyOsQYXUAA7Jye.jpg: SUCCESS. New version is  22% larger in bytes and  55% larger in pixels. 0.0MB downloaded
+124/792 media/1178656283626479619-EFtto5jXYAEVBgr.jpg: SUCCESS. New version is 126% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+125/792 media/1177626291220226051-EFfE3UXXkAU3jMN.jpg: SUCCESS. New version is 115% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+126/792 media/1177579701369487360-EFeDdr0WwAEalSP.jpg: SUCCESS. New version is 126% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+127/792 media/1176048122524516352-wi4yMXoztlHRkXty.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/ext_tw_video/1175314781533822976/pu/vid/1280x720/wi4yMXoztlHRkXty.mp4?tag=10 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+128/792 media/1176048112328220674-UBTLOnRtC8CO408X.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+129/792 media/1175430552608022528-EE_uNuqXsAEOdTo.jpg: SUCCESS. New version is 142% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+130/792 media/1592057697939165185-Fhe7uYfXgAAfHV5.jpg: SUCCESS. New version is  55% larger in bytes and 108% larger in pixels. 0.2MB downloaded
+131/792 media/1592057697939165185-Fhe7uYXXkAE-ypa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+132/792 media/1592057697939165185-Fhe7uYaXkAEL7Py.jpg: SUCCESS. New version is   8% larger in bytes and  28% larger in pixels. 0.1MB downloaded
+133/792 media/1592057697939165185-Fhe7uYfX0AEObQ5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+134/792 media/1592054480509763584-FhgdC_mWAAAfdmw.jpg: SUCCESS. New version is 255% larger in bytes and 693% larger in pixels. 0.3MB downloaded
+135/792 media/1591310366075666432-FhVqJ8RX0AE86w5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+136/792 media/1552906812860649472-FY0Ie3-XgAAV3tK.png: SUCCESS. New version is actually  34% smaller in bytes but  74% larger in pixels. 0.0MB downloaded
+137/792 media/1552891310713053184-FYx_pDHXoAAnkiS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+138/792 media/1552891310713053184-FYx_pEpX0AALXlU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+139/792 media/1552891310713053184-FYx_pGgWIAEYPvf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+140/792 media/1552891310713053184-FYx_pHOXoAE7zz-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+141/792 media/1552172111065747457-FYpsTcHX0AYgxSc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+142/792 media/1166265087881097217-EC9n6LxWkAELzSo.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+143/792 media/1163720794603696128-ECZcvsUXoAAvRjY.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+144/792 media/1163720794603696128-ECZcw9XX4AAjkIx.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+145/792 media/1163340808742998017-ECUELzeX4AAG5Gr.jpg: SUCCESS. New version is 113% larger in bytes and 314% larger in pixels. 0.1MB downloaded
+146/792 media/1163340808742998017-ECUEMezWkAAcn6j.jpg: SUCCESS. New version is   6% larger in bytes and  50% larger in pixels. 0.1MB downloaded
+147/792 media/1161912510825607168-EB_xRJbXkAA9zEc.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+148/792 media/1161270818036469760-EB2ppttXUAAgVu4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+149/792 media/1160987449759342592-EByn7XhW4AYmZ16.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+150/792 media/1160974267690995712-EByb6UZXYAIZdHg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+151/792 media/1547894327732367367-FXs5n-qUYAQqKc2.jpg: SUCCESS. New version is  33% larger in bytes and  53% larger in pixels. 0.1MB downloaded
+152/792 media/1156626959578935296-EA0pzrBUYAAGOIm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+153/792 media/1156412583576051712-EAxnHMGXYAEvyvR.jpg: SUCCESS. New version is   9% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+154/792 media/1152062967547981826-D_ymiR9VUAAeSIv.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+155/792 media/1150065576527704065-D_XaivCWkAA3B3R.jpg: SUCCESS. New version is 119% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+156/792 media/1148564504973889536-D_CFU3qWsAMyN2l.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+157/792 media/1143906098619060224-D9_4e1eXkAA0BQ1.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+158/792 media/1137291291572801536-D8h4YTiWkAAp9RU.jpg: SUCCESS. New version is 106% larger in bytes and 257% larger in pixels. 0.1MB downloaded
+159/792 media/1134510568621125632-D76XV6XWsAAyLuj.jpg: SUCCESS. New version is 309% larger in bytes and 923% larger in pixels. 0.2MB downloaded
+160/792 media/1132746665859964928-sjLA0noe1Eg9q79s.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+161/792 media/1131584374099599360-D7Qx66QXsAI8LkA.jpg: SUCCESS. New version is  32% larger in bytes and 128% larger in pixels. 0.1MB downloaded
+162/792 media/1131584374099599360-D7Qx77yXoAEcftN.jpg: SUCCESS. New version is  37% larger in bytes and 131% larger in pixels. 0.1MB downloaded
+163/792 media/1131584370651926533-D7Qx4nOXoAM09xO.jpg: SUCCESS. New version is  43% larger in bytes and 131% larger in pixels. 0.1MB downloaded
+164/792 media/1131584367992725504-D7Qx1tpXYAAZ_EU.jpg: SUCCESS. New version is  31% larger in bytes and 131% larger in pixels. 0.0MB downloaded
+165/792 media/1131584364503011331-D7QxyxaW4AYamYR.jpg: SUCCESS. New version is  39% larger in bytes and 131% larger in pixels. 0.1MB downloaded
+166/792 media/1131584357372747776-D7QxqK6W4AI8vs-.jpg: SUCCESS. New version is   3% larger in bytes and  44% larger in pixels. 0.0MB downloaded
+167/792 media/1545985640868859909-FXPHnl3X0AAWlD-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+168/792 media/1545985640868859909-FXPHnl-XkAUODKf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+169/792 media/1545985640868859909-FXPHnl1XoAIxzyC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+170/792 media/1545985640868859909-FXPHnl1WIAE-XtR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+171/792 media/1545830686149468162-FXPLQgWWQAYfYxg.jpg: SUCCESS. New version is  39% larger in bytes and  49% larger in pixels. 0.3MB downloaded
+172/792 media/1544740385909575682-FXAC-5DWIAwVucw.jpg: SUCCESS. New version is  31% larger in bytes and  57% larger in pixels. 0.1MB downloaded
+173/792 media/1544449510717493255-FW76j0oUUAEagkA.jpg: SUCCESS. New version is 129% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+174/792 media/1542472179446595584-FWf2RTZWQAE8tnl.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+175/792 media/1542408934388109312-FWe7IA4XEAEzjdO.jpg: SUCCESS. New version is  55% larger in bytes and  64% larger in pixels. 0.1MB downloaded
+176/792 media/1128548407839211520-D6lowh3X4AAG4nL.jpg: SUCCESS. New version is  13% larger in bytes and  44% larger in pixels. 0.0MB downloaded
+177/792 media/1126396892085137408-D6HD37oW0AA_Gv4.jpg: SUCCESS. New version is 288% larger in bytes and 897% larger in pixels. 0.5MB downloaded
+178/792 media/1126395278792298497-D6HChoJWwAArCba.jpg: SUCCESS. New version is 294% larger in bytes and 921% larger in pixels. 0.3MB downloaded
+179/792 media/1126207110377803777-D6ERHQsX4AAVqDB.jpg: SUCCESS. New version is  10% larger in bytes and  17% larger in pixels. 0.1MB downloaded
+180/792 media/1122000570699718657-D5IlkXDW4AIltpt.jpg: SUCCESS. New version is  13% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+181/792 media/1121002737657884673-D46aCyLW4AARIFV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+182/792 media/1117721042779353088-D4LxCD2WAAAiWtZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+183/792 media/1116743357777231876-D394KWvWwAwmt5q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+184/792 media/1116362299227480064-D34djE6XkAAc3At.jpg: SUCCESS. New version is 574% larger in bytes and 1029% larger in pixels. 0.9MB downloaded
+185/792 media/1116327783469334528-D336MqgWsAADPBv.jpg: SUCCESS. New version is 134% larger in bytes and 191% larger in pixels. 0.9MB downloaded
+186/792 media/1113358643544698881-D3Nxx6hXoAAC2jV.jpg: SUCCESS. New version is actually   5% smaller in bytes but  24% larger in pixels. 0.1MB downloaded
+187/792 media/1108266490040672257-GMXO5KPfngBJqOdC.mp4: FAIL. Media couldn't be retrieved from https://video.twimg.com/amplify_video/1106182559128604672/vid/1280x720/GMXO5KPfngBJqOdC.mp4?tag=11 because of exception: HTTPSConnectionPool(host='video.twimg.com', port=443): Read timed out. (read timeout=2)
+188/792 media/1107592182289059840-D16L6o5UYAAbdpp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+189/792 media/1106465728834793472-D1r0ql6XcAAnq_t.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+190/792 media/1542098671482933248-FWZhEOlWYAEsQK9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+191/792 media/1542069219537391618-FWaHxsLWQAAt6yp.jpg: SUCCESS. New version is 155% larger in bytes and 306% larger in pixels. 0.1MB downloaded
+192/792 media/1540420528770584576-FWCsTZiX0AEsvD8.jpg: SUCCESS. New version is  10% larger in bytes and  56% larger in pixels. 0.2MB downloaded
+193/792 media/1103202136458960896-D09cen0XgAArXnl.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+194/792 media/1103202136458960896-D09cfOIX0AABhOW.jpg: SUCCESS. New version is  43% larger in bytes and 125% larger in pixels. 0.0MB downloaded
+195/792 media/1102909651425943562-tA4O-HZSFgaAviJV.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+196/792 media/1100992779986059264-D0eDF_UW0AAQFdM.jpg: SUCCESS. New version is actually   8% smaller in bytes but  24% larger in pixels. 0.1MB downloaded
+197/792 media/1100045187244584964-D0QGcTvXQAAI7Xz.jpg: SUCCESS. New version is 819% larger in bytes and 457% larger in pixels. 2.1MB downloaded
+198/792 media/1098853280166408192-Dz9GkQMWsAA0KEk.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+199/792 media/1097821693362491392-Dzw-_psWkAAx7K9.jpg: SUCCESS. New version is actually   6% smaller in bytes but  19% larger in pixels. 0.0MB downloaded
+200/792 media/1095329167518789637-DzNjTJcWkAAOqJ-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+201/792 media/1540244857154838529-FWAMiBrXwAIswW4.jpg: SUCCESS. New version is  39% larger in bytes and  69% larger in pixels. 0.3MB downloaded
+202/792 media/1540206038544154626-FV_pNNTXgAAvxHh.jpg: SUCCESS. New version is 144% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+203/792 media/1538080160133562369-FVhbv6HX0AE-g5z.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+204/792 media/1538035806736199680-FVgzaLFWQAA7sj9.jpg: SUCCESS. New version is 121% larger in bytes and 191% larger in pixels. 0.7MB downloaded
+205/792 media/1537912665837666304-ItD_0MY5Djy3axEM.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+206/792 media/1093170217012875264-Dyu3sxTXgAswE4F.jpg: SUCCESS. New version is 1348% larger in bytes and 869% larger in pixels. 2.1MB downloaded
+207/792 media/1093050850203893760-DytL84uWkAIsJ1s.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+208/792 media/1091308558023622656-DyLYsweV4AAbm1R.jpg: SUCCESS. New version is 170% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+209/792 media/1091280288171347968-DyUBoWsWoAIw1Ty.jpg: SUCCESS. New version is 259% larger in bytes and 608% larger in pixels. 0.1MB downloaded
+210/792 media/1090103093474279424-DyDS-smW0AA_6dO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+211/792 media/1090099621077151744-DyDP0lsXcAArJf8.jpg: SUCCESS. New version is  16% larger in bytes and  14% larger in pixels. 0.2MB downloaded
+212/792 media/1089098780639662085-Dx1Be7wXgAASGhn.jpg: SUCCESS. New version is  97% larger in bytes and 152% larger in pixels. 0.1MB downloaded
+213/792 media/1088156305695690752-DxnoUX0WkAAxTcU.jpg: SUCCESS. New version is 264% larger in bytes and 606% larger in pixels. 0.3MB downloaded
+214/792 media/1086217688278622208-DxMFNPfXQAAVB79.jpg: SUCCESS. New version is 105% larger in bytes and 171% larger in pixels. 0.0MB downloaded
+215/792 media/1074745675462688768-DupDVLQW4AEg6jG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+216/792 media/1074685873835438081-DuoNGcKXQAAI0Sb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+217/792 media/1072431651177881600-DuGfag-XcAAxyuQ.jpg: SUCCESS. New version is  29% larger in bytes and  36% larger in pixels. 0.1MB downloaded
+218/792 media/1070914042280198144-DtymoeGWsAAkGpR.jpg: SUCCESS. New version is  15% larger in bytes and  24% larger in pixels. 0.2MB downloaded
+219/792 media/1535601931695149062-FU-Nz7iWIAEP9NA.jpg: SUCCESS. New version is 116% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+220/792 media/1535130971686805504-FU00c5xWQAEkDY4.jpg: SUCCESS. New version is  99% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+221/792 media/1070574663091261440-Dttx-UpXQAABxcL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+222/792 media/1069690070372900864-DtgwWNdWwAAv0l6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+223/792 media/1068109148716507136-DtKvmr6XoAATmoE.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+224/792 media/1063678435606827008-DsLw30nWwAIbSSF.jpg: SUCCESS. New version is 143% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+225/792 media/1062294356336492545-Dr4HEDUXcAACsrP.jpg: SUCCESS. New version is  53% larger in bytes and 109% larger in pixels. 0.1MB downloaded
+226/792 media/1062294356336492545-Dr4HE8kXQAAuasJ.jpg: SUCCESS. New version is  88% larger in bytes and 179% larger in pixels. 0.1MB downloaded
+227/792 media/1060169428359364608-DrZ6Zs1WwAEmQei.jpg: SUCCESS. New version is 691% larger in bytes and 1029% larger in pixels. 0.6MB downloaded
+228/792 media/1060169428359364608-DrZ6ZoNW4AA3JQR.jpg: SUCCESS. New version is 748% larger in bytes and 1029% larger in pixels. 0.8MB downloaded
+229/792 media/1060163393695428608-DrZ07HnWoAAIYZm.jpg: SUCCESS. New version is 840% larger in bytes and 1029% larger in pixels. 1.4MB downloaded
+230/792 media/1059737259954573312-DrTxYudX4AMBjrV.jpg: SUCCESS. New version is  42% larger in bytes and  65% larger in pixels. 0.2MB downloaded
+231/792 media/1052485044692905984-DpstjuzXcAMCbRn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+232/792 media/1052484655964774400-DpstLicXoAE7D1-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+233/792 media/1052228138158051328-DppD5oyWkAERs6R.jpg: SUCCESS. New version is  51% larger in bytes and  74% larger in pixels. 0.2MB downloaded
+234/792 media/1052119396376829952-DpnhAB8XcAAhLRE.jpg: SUCCESS. New version is 101% larger in bytes and 195% larger in pixels. 0.1MB downloaded
+235/792 media/1050322172563087361-DpN-b56XoAA8gs-.jpg: SUCCESS. New version is  11% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+236/792 media/1045722996684595201-DoMnhDVW0AUdM3R.jpg: SUCCESS. New version is  15% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+237/792 media/1045651142796103680-DoLlt3TXkAAGcl9.jpg: SUCCESS. New version is 109% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+238/792 media/1044658651808636928-Dn9dIarVAAE2twK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+239/792 media/1044262232840908800-Dn32nsfXoAEuRFA.jpg: SUCCESS. New version is 105% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+240/792 media/1044248097088569344-Dn3qGd_XgAEAGZG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+241/792 media/1534753150225330179-FUxGF4qWIAAnq7L.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+242/792 media/1534484514642268160-FUuVh9WXEAEJQ8h.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+243/792 media/1039808808283975685-Dm4kkX4XsAEZXbe.jpg: SUCCESS. New version is  74% larger in bytes and 139% larger in pixels. 0.2MB downloaded
+244/792 media/1038507946358046720-DmmFdywXoAE113C.jpg: SUCCESS. New version is  11% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+245/792 media/1037766597153370112-DmbjNmCWwAAfRF6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+246/792 media/1037311313121353728-DmVFIq1X4AEV0Ek.jpg: SUCCESS. New version is  75% larger in bytes and 101% larger in pixels. 0.0MB downloaded
+247/792 media/1026455328987246592-Dj6zjnkWsAAM2wo.jpg: SUCCESS. New version is  46% larger in bytes and  70% larger in pixels. 0.1MB downloaded
+248/792 media/1020341912228827136-Dij7i_4X4AATRCn.jpg: SUCCESS. New version is 831% larger in bytes and 1029% larger in pixels. 1.5MB downloaded
+249/792 media/1019937833568690176-DieMAXAWAAAPMbd.jpg: SUCCESS. New version is 254% larger in bytes and 525% larger in pixels. 0.3MB downloaded
+250/792 media/1019305363038965761-DiVMynCX0AUD3Zj.jpg: SUCCESS. New version is   9% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+251/792 media/1016249710003326976-DhpxtHsW4AAzIhG.jpg: SUCCESS. New version is  16% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+252/792 media/1015140261951954944-DhXw9AYW4AsjaMr.jpg: SUCCESS. New version is  35% larger in bytes and  78% larger in pixels. 0.2MB downloaded
+253/792 media/1015140261951954944-DhXw9AYWAAElphD.jpg: SUCCESS. New version is  28% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+254/792 media/1015140261951954944-DhXw9AXXUAACo9v.jpg: SUCCESS. New version is  28% larger in bytes and  78% larger in pixels. 0.1MB downloaded
+255/792 media/1007726835378122752-DfwqNc8WkAAqwqZ.jpg: SUCCESS. New version is  10% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+256/792 media/1005424672949919744-DfP8ZgAX0AAtRaV.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+257/792 media/1005384022300745728-DfPXb3GWkAAAOu4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+258/792 media/1005383911655034886-DfPXU8_X4AAzH9C.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+259/792 media/1001397355403468802-DeWtkyMXUAAuv8q.jpg: SUCCESS. New version is 222% larger in bytes and 464% larger in pixels. 0.2MB downloaded
+260/792 media/999643030998147072-Dd9wwx8VQAA1KFN.jpg: SUCCESS. New version is 120% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+261/792 media/999643030998147072-Dd9wwx7V0AAr5Z7.jpg: SUCCESS. New version is 115% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+262/792 media/999578993086083072-Dd83yJfUQAAsoSk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+263/792 media/999577525809565696-Dd82c6KVwAAoPNj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+264/792 media/998642308676489219-Ddvj4TvUwAA0MP1.jpg: SUCCESS. New version is   9% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+265/792 media/996367113534222336-DdPOmCfW4AIVlK2.jpg: SUCCESS. New version is 979% larger in bytes and 1029% larger in pixels. 1.3MB downloaded
+266/792 media/996347780816953345-DdO9Ac5WkAYnTlS.jpg: SUCCESS. New version is 1092% larger in bytes and 1029% larger in pixels. 1.3MB downloaded
+267/792 media/1531495825582563329-FUDcueSWAAA5vOf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+268/792 media/1530439894450978816-FTxZSVtWIAEQJmO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+269/792 media/1529692341665247232-FToWlXCXwAE0mwp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+270/792 media/1529325760846102528-FTjrer5XEAc1fag.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+271/792 media/987007325427982336-DbKN6sbWsAcVpcd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+272/792 media/984377165725749248-Dak1zy3W4AA7SfJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+273/792 media/981836592515043328-DaAvKzTXcAAnobw.jpg: SUCCESS. New version is  15% larger in bytes and  24% larger in pixels. 0.2MB downloaded
+274/792 media/975006646404636672-DYfrXWyWsAEke1b.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+275/792 media/974975444188614657-DYfO4yeWsAAprp4.jpg: SUCCESS. New version is 996% larger in bytes and 1029% larger in pixels. 1.5MB downloaded
+276/792 media/974975111324368897-DYfOpLJX4AApFLC.jpg: SUCCESS. New version is 722% larger in bytes and 1029% larger in pixels. 1.1MB downloaded
+277/792 media/972021371566948352-DX1QRzwX0AERIFL.jpg: SUCCESS. New version is  10% larger in bytes and  17% larger in pixels. 0.1MB downloaded
+278/792 media/971619081966276608-DXviGBwUMAAXD94.jpg: SUCCESS. New version is 104% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+279/792 media/971251606422466561-DXqULqWW4AEY-GN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+280/792 media/969792767940612096-DXVlYFVWkAE7C6S.jpg: SUCCESS. New version is  12% larger in bytes and  24% larger in pixels. 0.0MB downloaded
+281/792 media/968707432687046663-DXGKQ7vWsAIk_0I.png: SUCCESS. New version is actually  24% smaller in bytes but  24% larger in pixels. 0.4MB downloaded
+282/792 media/968424924061863936-DXCJU5pWsAEg_10.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+283/792 media/966897305088503810-DWsb92xU8AA9N5j.jpg: SUCCESS. New version is  10% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+284/792 media/964008258603290624-DWDYYJHX4AAIohy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+285/792 media/956078005843087366-DUSr3BMX4AE06x4.jpg: SUCCESS. New version is 267% larger in bytes and 464% larger in pixels. 0.2MB downloaded
+286/792 media/951753352584495105-DTVOn3rW0AAX32C.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+287/792 media/950368213300383745-DTBioccXkAE2vMK.jpg: SUCCESS. New version is 800% larger in bytes and 1029% larger in pixels. 1.3MB downloaded
+288/792 media/1589877956700418048-FhBhkpqWIAAc-C4.jpg: SUCCESS. New version is  39% larger in bytes and  67% larger in pixels. 0.2MB downloaded
+289/792 media/1589137674639900673-Fg0wznbXgAAKgTR.jpg: SUCCESS. New version is  88% larger in bytes and 192% larger in pixels. 0.2MB downloaded
+290/792 media/1526840445732589569-FTBtNzjWAAAQpof.jpg: SUCCESS. New version is 132% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+291/792 media/940970066916585472-DQ7_SGFXUAAwXSf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+292/792 media/936644059279609857-DP-gzGmWsAEiSC4.jpg: SUCCESS. New version is  19% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+293/792 media/935938327257210880-DP0e8UcX4AA0g9I.jpg: SUCCESS. New version is  61% larger in bytes and  84% larger in pixels. 0.0MB downloaded
+294/792 media/934422480273461249-DPe8OTmX4AAeR-6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+295/792 media/934414614628110336-DPe1H7eXkAUu5lT.jpg: SUCCESS. New version is  50% larger in bytes and  93% larger in pixels. 0.0MB downloaded
+296/792 media/934400157889761280-DPen7mZWkAM6AgR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+297/792 media/934400157889761280-DPen8WkWkAAJmCW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+298/792 media/934002622838837254-DPY-beIXkAEh3Wc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+299/792 media/933634575271714816-DPTvsFXX0AAa_sA.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+300/792 media/931518281927798784-DO1q31DXkAAemJq.jpg: SUCCESS. New version is 878% larger in bytes and 1029% larger in pixels. 0.9MB downloaded
+301/792 media/1525497044818972672-FSt_T96WUAIGk1A.jpg: SUCCESS. New version is 148% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+302/792 media/1525427036881289219-FStnzWNXwAEaNXs.jpg: SUCCESS. New version is 118% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+303/792 media/928908942280970242-DOQluxFW0AAZcep.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+304/792 media/928908942280970242-DOQlvPTWAAApGhr.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+305/792 media/928908942280970242-DOQlv0MW0AEYJ69.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+306/792 media/927820524805386240-DOBH1zrWAAAvIg7.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+307/792 media/927685967024181248-DN-99dfWkAAX7gH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+308/792 media/924337688878223365-DNPoOGgW4AAmzxr.jpg: SUCCESS. New version is   9% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+309/792 media/922020808645627904-DMutCCRXkAANfyj.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+310/792 media/921245100289810432-DMjrhhwX0AA4oXf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+311/792 media/920898356137873408-DMewKuwWkAAqmeR.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+312/792 media/918209655142305792-DL4fEbgVwAAEHR4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+313/792 media/918209655142305792-DL4fEdgVAAA4_hM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+314/792 media/918040772154413057-DL2JGDoX0AEPOwS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+315/792 media/913333259580448768-DKzPtyCXUAEZeKi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+316/792 media/913329043621203968-DKzL6KRX0AA8Sh1.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+317/792 media/913304519903207424-DKy1nClX0AAPUeU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+318/792 media/912985518190874624-DKuTS-5W4AAFYZ0.jpg: SUCCESS. New version is  33% larger in bytes and  44% larger in pixels. 0.2MB downloaded
+319/792 media/911592769893826560-DKaSmdDX0AAi9eR.jpg: SUCCESS. New version is 202% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+320/792 media/911592769893826560-DKaSnVmXUAAoLEs.jpg: SUCCESS. New version is 204% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+321/792 media/911592769893826560-DKaSoq4XUAARK3_.jpg: SUCCESS. New version is 177% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+322/792 media/911558844953841664-DKaB5uhXUAAXhhi.jpg: SUCCESS. New version is 787% larger in bytes and 1029% larger in pixels. 1.1MB downloaded
+323/792 media/1524267411846881280-FJSuA1vvrTqBSx1C.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+324/792 media/910637271484960769-DKM1Ul6VYAAuu31.jpg: SUCCESS. New version is  16% larger in bytes and  41% larger in pixels. 0.1MB downloaded
+325/792 media/908713159522955264-DJxly-1W0AA14Ll.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+326/792 media/908224763314745344-DJqUo0cWsAAkXl9.jpg: SUCCESS. New version is  35% larger in bytes and  48% larger in pixels. 0.2MB downloaded
+327/792 media/908006975912513537-DJnjhkKW0AA5wB2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+328/792 media/906310540624056320-DJOjGNIXUAA_ffb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+329/792 media/905649713638137856-DJGDmyeV4AAY7wC.jpg: SUCCESS. New version is  13% larger in bytes and  24% larger in pixels. 0.0MB downloaded
+330/792 media/901058517355855873-DIEz25OXcAE8PQb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+331/792 media/1522828378340012032-FR1ncFMXoAAuSN8.jpg: SUCCESS. New version is 280% larger in bytes and 547% larger in pixels. 0.6MB downloaded
+332/792 media/899892929606672384-DH0P1AXXcAA5vu5.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+333/792 media/898569635116855296-DHhcSrgXYAEpUvr.jpg: SUCCESS. New version is  32% larger in bytes and  58% larger in pixels. 0.1MB downloaded
+334/792 media/892058332651028480-DGEbx6-XUAAO8xB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+335/792 media/888831515790106625-DFXDcPGXcAAPjKU.jpg: SUCCESS. New version is 1093% larger in bytes and 1029% larger in pixels. 0.9MB downloaded
+336/792 media/881042050371641347-DDlweN0W0AAArGe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+337/792 media/880598921009139712-DDh5zwJWsAAKr3Q.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+338/792 media/878061055053660161-DC9vDrOUIAIOLHy.jpg: SUCCESS. New version is  49% larger in bytes and  99% larger in pixels. 0.1MB downloaded
+339/792 media/874532685661732864-DCL20bbXoAAWouB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+340/792 media/866979754385256449-DAghe45XYAAz8Wa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+341/792 media/862528918003339264-C_gb-CgV0AAKA3D.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+342/792 media/1519210751709298689-FRVSG6FXEAIQg0Y.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+343/792 media/1519210751709298689-FRVSHRlX0AAZt5z.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+344/792 media/1519210751709298689-FRVSIBBXEAA4YRM.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+345/792 media/857122502807609344-C-UcMlHXoAYisVO.jpg: SUCCESS. New version is 120% larger in bytes and 248% larger in pixels. 0.1MB downloaded
+346/792 media/857122502807609344-C-UcV3lXgAAaVzv.jpg: SUCCESS. New version is 117% larger in bytes and 280% larger in pixels. 0.1MB downloaded
+347/792 media/855343921433587712-C97KuL3XoAAHQdO.jpg: SUCCESS. New version is  16% larger in bytes and  24% larger in pixels. 0.1MB downloaded
+348/792 media/849117125620924417-C8ircBpWAAAPR6s.jpg: SUCCESS. New version is  69% larger in bytes and 130% larger in pixels. 0.1MB downloaded
+349/792 media/848049430184030208-C8TgdJvXkAEPfKa.jpg: SUCCESS. New version is 143% larger in bytes and 260% larger in pixels. 0.1MB downloaded
+350/792 media/845604988613210113-C7wxPT5XUAMlKxO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+351/792 media/845592450546749441-C7wl1kuWkAAFX3z.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+352/792 media/843802924333633536-C7XKOzqX4AARv9b.jpg: SUCCESS. New version is 220% larger in bytes and 475% larger in pixels. 0.2MB downloaded
+353/792 media/843732810204663809-C7WKgX4W4AAIYJL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+354/792 media/839160710953316357-C6VLiwbUoAA4xOF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+355/792 media/838800702919028736-C6P58SIWgAAHVW6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+356/792 media/830056369608867840-C0R-OLvXcAAeyhJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+357/792 media/827421436608393217-C3uXVWKWIAAurWQ.jpg: SUCCESS. New version is  55% larger in bytes and 118% larger in pixels. 0.0MB downloaded
+358/792 media/826118951927164928-C3b2LypWEAAxB52.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+359/792 media/826018801120587776-C3aVI7OWYAEAkB_.jpg: SUCCESS. New version is 167% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+360/792 media/826018801120587776-C3aVMZwWIAA4lJU.jpg: SUCCESS. New version is 193% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+361/792 media/825263171837509632-C3PcnH8WQAAuh8b.jpg: SUCCESS. New version is 165% larger in bytes and 156% larger in pixels. 0.2MB downloaded
+362/792 media/823873419439702017-C278f4TWEAAfxG-.jpg: SUCCESS. New version is 297% larger in bytes and 466% larger in pixels. 0.2MB downloaded
+363/792 media/818545370821234691-C1wOlyZXgAEFTYL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+364/792 media/811218674661134337-C0IGj1PWEAEn6G3.jpg: SUCCESS. New version is 483% larger in bytes and 640% larger in pixels. 1.1MB downloaded
+365/792 media/1515961552742010886-FQkgRE6WYAYY8pp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+366/792 media/1515273619861131266-C9MqSCAWAAAJ_YQ.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+367/792 media/796321502929031168-Cw0aLJoXEAAsZgF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+368/792 media/796293163258433536-Cw0AZUKW8AEtRds.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+369/792 media/796282232738562049-Cwz2dUFXUAAAqn-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+370/792 media/796273462629298176-CwzuedSXUAA3eeG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+371/792 media/795874704351432704-CwuDzDCWQAAJ0cc.jpg: SUCCESS. New version is 551% larger in bytes and 640% larger in pixels. 1.3MB downloaded
+372/792 media/789362591437127681-CvRg7idWEAEGm0c.jpg: SUCCESS. New version is  23% larger in bytes and  42% larger in pixels. 0.0MB downloaded
+373/792 media/788782286900690944-CvJRMMhWIAUVqBz.jpg: SUCCESS. New version is  13% larger in bytes and  17% larger in pixels. 0.1MB downloaded
+374/792 media/786147549635874816-Cuj1BJHXgAAT8Hl.jpg: SUCCESS. New version is 577% larger in bytes and 640% larger in pixels. 0.9MB downloaded
+375/792 media/785881769228861440-CugDQWRWIAAxlI6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+376/792 media/781146543852249088-CtcwnhGWYAIMP5C.jpg: SUCCESS. New version is 227% larger in bytes and 455% larger in pixels. 0.2MB downloaded
+377/792 media/776084987070279680-CsU1K9DWgAIUtRy.jpg: SUCCESS. New version is  10% larger in bytes and  14% larger in pixels. 0.2MB downloaded
+378/792 media/775632622433267712-CsOZv5UXEAA8ohQ.jpg: SUCCESS. New version is  73% larger in bytes and 106% larger in pixels. 0.2MB downloaded
+379/792 media/775362842274955265-CsKkXTNWgAAzScH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+380/792 media/775004309427720192-CsFeT0wW8AEWEAn.jpg: SUCCESS. New version is  30% larger in bytes and  59% larger in pixels. 0.1MB downloaded
+381/792 media/774831640044511232-CsAzhNOXYAET0d7.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+382/792 media/774609125829410816-Cr_s8b1WEAAhL-Q.jpg: SUCCESS. New version is 134% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+383/792 media/774591210535124992-Cr_mlLHWAAAO1lh.jpg: SUCCESS. New version is 744% larger in bytes and 640% larger in pixels. 0.9MB downloaded
+384/792 media/774558981461344256-Cr_JQvDW8AAeQhQ.jpg: SUCCESS. New version is 874% larger in bytes and 640% larger in pixels. 1.0MB downloaded
+385/792 media/774555340138577920-Cr_F8w9WcAAS0T0.jpg: SUCCESS. New version is 514% larger in bytes and 640% larger in pixels. 1.2MB downloaded
+386/792 media/774554745839247361-Cr_FaAqW8AAbmeN.jpg: SUCCESS. New version is 627% larger in bytes and 640% larger in pixels. 1.3MB downloaded
+387/792 media/774540227004207104-Cr-4KAsWIAAocyP.jpg: SUCCESS. New version is  14% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+388/792 media/774533530911121408-Cr-yHduWEAAjroB.jpg: SUCCESS. New version is  13% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+389/792 media/774451995361026048-Cr9n-h8W8AATzSM.jpg: SUCCESS. New version is 102% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+390/792 media/774312028970291200-Cr7lgSFVIAAhydG.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+391/792 media/774197696856940544-Cr6AslBXgAAgENx.jpg: SUCCESS. New version is  90% larger in bytes and 122% larger in pixels. 0.3MB downloaded
+392/792 media/771242688477696001-CrQBHPIVYAERZmx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+393/792 media/1511928343192645637-FPseAMpXwAILWxk.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+394/792 media/768810419830067200-Cqtc-QvXgAA2Rel.jpg: SUCCESS. New version is 628% larger in bytes and 640% larger in pixels. 0.9MB downloaded
+395/792 media/768776631037100032-Cqsh3J7XYAAn7w2.jpg: SUCCESS. New version is 108% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+396/792 media/768720674349350912-CqsLXEJWgAEk8dj.jpg: SUCCESS. New version is 795% larger in bytes and 640% larger in pixels. 0.9MB downloaded
+397/792 media/758351195039760384-CoYycb7XgAAXZ-N.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+398/792 media/753842451274539008-CnYvtVCUAAE9qyT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+399/792 media/745904918083538944-Cln8aTqWYAAPQIv.jpg: SUCCESS. New version is 204% larger in bytes and 476% larger in pixels. 0.1MB downloaded
+400/792 media/741172867862237184-Ckksmf7WYAArwvL.jpg: SUCCESS. New version is 213% larger in bytes and 475% larger in pixels. 0.1MB downloaded
+401/792 media/738682573128404992-CkBTx7yW0AARs2q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+402/792 media/737544509278457856-CjxI0k3UgAAcGtg.jpg: SUCCESS. New version is  25% larger in bytes and  33% larger in pixels. 0.1MB downloaded
+403/792 media/1509125120694104072-FPEWRS4XMAEFgtc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+404/792 media/731165827039383553-CiWfWefWUAA_g9Q.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+405/792 media/730810230423076868-CiRSVvrWEAAkfrF.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+406/792 media/728341946893258753-Chn7YXQWEAAJLYs.jpg: SUCCESS. New version is 137% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+407/792 media/727483024053555200-ChiJ9DLWYAAzzvC.jpg: SUCCESS. New version is 494% larger in bytes and 640% larger in pixels. 1.0MB downloaded
+408/792 media/726827177191346177-ChY1dwEWUAI9mkJ.jpg: SUCCESS. New version is 204% larger in bytes and 244% larger in pixels. 0.5MB downloaded
+409/792 media/722796398735990784-CgfjfbxWsAQxoZ9.jpg: SUCCESS. New version is  82% larger in bytes and 124% larger in pixels. 0.2MB downloaded
+410/792 media/722698227720593408-W0VyDQsS9Y6v6cNK.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+411/792 media/721638908543516672-CgEzZY5UYAAn_eZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+412/792 media/719814776218644480-Cf1LuDKW4AERvaq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+413/792 media/719814776218644480-Cf1LtjuXEAEiy86.jpg: SUCCESS. New version is  13% larger in bytes and  14% larger in pixels. 0.1MB downloaded
+414/792 media/717214506292809728-CfQMvJ6WIAIpick.jpg: SUCCESS. New version is 176% larger in bytes and 196% larger in pixels. 0.3MB downloaded
+415/792 media/710481428623040512-CdwZ2JqWIAE_hl2.jpg: SUCCESS. New version is  41% larger in bytes and  44% larger in pixels. 0.3MB downloaded
+416/792 media/709714840672141312-CdllyRfUkAIi-ro.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+417/792 media/707562344155578372-CdG_Q1hXEAAkRUG.jpg: SUCCESS. New version is 101% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+418/792 media/705065314019614720-CcjlKWeW8AIg3xx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+419/792 media/1586245678182850560-FgN6BQhXoAIs5-L.png: SUCCESS. New version is actually  30% smaller in bytes but  27% larger in pixels. 0.1MB downloaded
+420/792 media/1585246547230732289-Ff_UeofXoAAZhd-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+421/792 media/1585246547230732289-Ff_UeY1XgAElvo5.jpg: SUCCESS. New version is 149% larger in bytes and 525% larger in pixels. 0.6MB downloaded
+422/792 media/1585235433524547585-Ff_jENWWYAAsw-N.jpg: SUCCESS. New version is  40% larger in bytes and  66% larger in pixels. 0.1MB downloaded
+423/792 media/1585235433524547585-Ff_jIqvWAAA5ZLp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+424/792 media/1507056880459423749-FOoj6DSX0AcEvwa.jpg: SUCCESS. New version is 626% larger in bytes and 1066% larger in pixels. 0.6MB downloaded
+425/792 media/1507056871194206213-FOoimEZXoA8_YX5.jpg: SUCCESS. New version is 596% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+426/792 media/696966139759480832-Cawe6bmWEAAg4X1.jpg: SUCCESS. New version is  28% larger in bytes and  44% larger in pixels. 0.1MB downloaded
+427/792 media/695305523231596544-CaYybW6WQAAnaMS.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+428/792 media/693759743555420160-CaC6v6lWkAAkJzZ.jpg: SUCCESS. New version is  95% larger in bytes and 111% larger in pixels. 0.3MB downloaded
+429/792 media/675025431863689216-CV4rqAtXAAEdlib.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+430/792 media/674486006565888000-CVw7JWJWUAAmy4P.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+431/792 media/673852038862753792-CVoA2mUW4AEnZjk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+432/792 media/673505145427132416-CVjFSV5WsAU-J2e.jpg: SUCCESS. New version is  13% larger in bytes and  13% larger in pixels. 0.2MB downloaded
+433/792 media/672669284166955008-CVXJntsW4AAmBIX.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+434/792 media/667222805172342784-CUJzmTMWcAEX75V.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+435/792 media/664773064056532992-CTm_kZ0UwAAoYwh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+436/792 media/661454005479034880-CS306RbWoAAYvMX.jpg: SUCCESS. New version is 631% larger in bytes and 640% larger in pixels. 1.0MB downloaded
+437/792 media/659783804618448896-CSgFS-XWoAAKuvd.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+438/792 media/659368147292725249-CSaL1dDW0AAnVZ4.jpg: SUCCESS. New version is 648% larger in bytes and 640% larger in pixels. 0.8MB downloaded
+439/792 media/657123764388405248-CR6SiCnVAAAxJfZ.png: SUCCESS. New version is  35% larger in bytes and  44% larger in pixels. 1.5MB downloaded
+440/792 media/1504106527329857536-FN-ocsZWQAEi1NC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+441/792 media/1502588910379184129-FNhIeRAXIAYVzOV.jpg: SUCCESS. New version is 115% larger in bytes and 151% larger in pixels. 0.3MB downloaded
+442/792 media/1502588910379184129-FNhIeefXIAMqrvE.jpg: SUCCESS. New version is 114% larger in bytes and  73% larger in pixels. 0.2MB downloaded
+443/792 media/1502588910379184129-FNhIerwXwAQLmU0.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+444/792 media/654904963517317120-CRavnatWwAAaDv9.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+445/792 media/649891450193354752-CQTNgM_WoAAAgrh.jpg: SUCCESS. New version is   8% larger in bytes and  39% larger in pixels. 0.1MB downloaded
+446/792 media/649238219830239232-CQKEP5rWoAAbBUg.jpg: SUCCESS. New version is actually  27% smaller in bytes but   2% larger in pixels. 0.1MB downloaded
+447/792 media/648101568492007424-CP6E8ApUsAAZhuS.jpg: SUCCESS. New version is 263% larger in bytes and 503% larger in pixels. 0.6MB downloaded
+448/792 media/647640245786292224-CPl8JkyUEAE835o.png: SUCCESS. New version is actually  35% smaller in bytes but 149% larger in pixels. 0.1MB downloaded
+449/792 media/647410636406829056-CPpyjCnUcAAEaAz.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+450/792 media/647407124981673984-CPwNWMuXAAAbASH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+451/792 media/647395617392717828-CPwC4VkUYAUhdtQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+452/792 media/647378497908932608-CPvzTnxWwAAfHh4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+453/792 media/647329428759019520-CPvGra0U8AAmQyI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+454/792 media/647319129670742016-CPu9T_TWwAAKBrT.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+455/792 media/647007861915168768-CPqiNx2WIAAQEyf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+456/792 media/646961527791198208-CPpyPmYWoAAJ9bW.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+457/792 media/646943645254447108-CPpnrVnUkAIqrA3.jpg: SUCCESS. New version is 103% larger in bytes and 300% larger in pixels. 0.3MB downloaded
+458/792 media/646938584369491968-CPpfoo5UcAAi7rI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+459/792 media/646928026886926336-CPpZmscVAAAZpJJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+460/792 media/646256123356520448-CPfy0tnUEAAZsda.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+461/792 media/646205060708347904-CPfIDu9WIAAv9kt.png: SUCCESS. New version is  75% larger in bytes and 132% larger in pixels. 1.1MB downloaded
+462/792 media/645506344905244672-CPSC2pMU8AE6jkg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+463/792 media/645351014762192896-CPS_U0-WUAQ-lWX.jpg: SUCCESS. New version is 309% larger in bytes and 640% larger in pixels. 0.5MB downloaded
+464/792 media/645198160697163776-CPQ0S4gXAAASaR1.jpg: SUCCESS. New version is 308% larger in bytes and 640% larger in pixels. 0.4MB downloaded
+465/792 media/645197149723082753-CPQzYR_WsAAvnjz.jpg: SUCCESS. New version is 321% larger in bytes and 640% larger in pixels. 0.5MB downloaded
+466/792 media/645194499904393216-CPQpcsxWgAAsPi6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+467/792 media/645194426596356096-CPQpZZjWwAAEpu4.jpg: SUCCESS. New version is  20% larger in bytes and 111% larger in pixels. 0.1MB downloaded
+468/792 media/645194050824441857-CPQnucqXAAAQhGa.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+469/792 media/645160593662574592-CPQSHrrWwAAFWAQ.jpg: SUCCESS. New version is 348% larger in bytes and 640% larger in pixels. 0.7MB downloaded
+470/792 media/644953285665943552-CPNKXqcUkAAwXNs.png: SUCCESS. New version is  12% larger in bytes and 214% larger in pixels. 0.1MB downloaded
+471/792 media/644830874454896640-CPLmQcGUcAAeHAc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+472/792 media/644775745139683329-CPK0EuzWsAATpHp.png: SUCCESS. New version is  88% larger in bytes and 155% larger in pixels. 1.1MB downloaded
+473/792 media/1501500798085341185-FNZm8dxXIAUCONO.png: SUCCESS. New version is 190% larger in bytes and 886% larger in pixels. 0.2MB downloaded
+474/792 media/643701266368040960-CO7i11GWsAA6-cm.png: SUCCESS. New version is 241% larger in bytes and 300% larger in pixels. 1.0MB downloaded
+475/792 media/642159555082715136-COlnPZFUAAAcBwN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+476/792 media/642159082854440960-COlhomiWcAAmpQB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+477/792 media/642088079797260288-COjKkntWcAAZylJ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+478/792 media/641420542872973312-CObFcm7WIAA1tOY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+479/792 media/641382129130061824-COalpASUEAAKbNf.jpg: SUCCESS. New version is 314% larger in bytes and 640% larger in pixels. 0.4MB downloaded
+480/792 media/636632401758842880-CLO_EFCWgAAiz7B.jpg: SUCCESS. New version is actually  11% smaller in bytes but   3% larger in pixels. 0.2MB downloaded
+481/792 media/636466986550198272-CNQ3WnfUcAAxiM5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+482/792 media/636442414148882432-CNUYRosUwAE2ekb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+483/792 media/634065242503413760-CMylckmWcAA8aDK.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+484/792 media/632587332751917057-CMdm0eUWsAA5YdN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+485/792 media/630676885295493120-CMCdQmmWoAATHU7.png: SUCCESS. New version is 107% larger in bytes and 474% larger in pixels. 0.2MB downloaded
+486/792 media/1500467140809441285-FNKHxG7XwAIpLhC.jpg: SUCCESS. New version is  61% larger in bytes and 120% larger in pixels. 0.2MB downloaded
+487/792 media/1499752181444059142-FMtH75zWYAUy_4D.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+488/792 media/1498598232997384193-FMwXJVLX0AI1knp.jpg: SUCCESS. New version is 242% larger in bytes and 475% larger in pixels. 0.1MB downloaded
+489/792 media/1498597911394926597-FMwWltjXoAETQQe.jpg: SUCCESS. New version is  63% larger in bytes and 121% larger in pixels. 0.1MB downloaded
+490/792 media/1497431557270872064-FMegVk_VEAMog6G.jpg: SUCCESS. New version is  97% larger in bytes and 150% larger in pixels. 0.0MB downloaded
+491/792 media/629714786280935424-CL0mjYuWIAEaB-3.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+492/792 media/624272969246883840-CKnZfBxWEAArVyk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+493/792 media/620817658439708672-CJ00HYGUAAADESN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+494/792 media/615971154092761088-CIwfCP_UwAAt34h.jpg: SUCCESS. New version is 440% larger in bytes and 1102% larger in pixels. 0.7MB downloaded
+495/792 media/614471234001178624-CIbsJEyWwAACkL5.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+496/792 media/614406061181771776-CIbPDRYWcAA3DG6.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+497/792 media/614344911492657152-CIaXa-bUAAAxvUN.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+498/792 media/1494327560167047170-FLzq_YMVUA4_lqH.jpg: SUCCESS. New version is  94% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+499/792 media/612993074726326272-CIHJ70pWgAEk9SF.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+500/792 media/612975893066186754-CIG0zAyUkAAaDOi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+501/792 media/612900294800875520-CIFk5fxVAAAnJ_k.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+502/792 media/611083239323734016-CHsA9X8UcAA7__r.jpg: SUCCESS. New version is 305% larger in bytes and 640% larger in pixels. 0.6MB downloaded
+503/792 media/610995324455395328-CHpcmDrVAAEsjKg.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+504/792 media/610014011363622912-CHc0gi_WIAAtvTM.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+505/792 media/609980062532829184-CHcVoc_WgAA8cMX.jpg: SUCCESS. New version is 211% larger in bytes and 640% larger in pixels. 0.4MB downloaded
+506/792 media/609021342655127552-CHOsVozW8AABL6z.jpg: SUCCESS. New version is  87% larger in bytes and 229% larger in pixels. 0.2MB downloaded
+507/792 media/608784745204350977-CHLV0kRVIAAp5Qr.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+508/792 media/608730421514272768-CHKcyHyUAAAqCgs.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+509/792 media/608367952891682816-CHFa_tMWcAAvRdQ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+510/792 media/608322632166076419-CHEvJ1PXIAAxcLr.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+511/792 media/608302379499323392-CHEYc7TUAAAVZGm.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+512/792 media/608284972344995840-CHEP9EkVAAAtLer.jpg: SUCCESS. New version is 355% larger in bytes and 640% larger in pixels. 0.4MB downloaded
+513/792 media/607631154947039233-CG69Ml5U8AA8Ghv.png: SUCCESS. New version is  65% larger in bytes and 109% larger in pixels. 1.0MB downloaded
+514/792 media/606735464192720896-CGt-HtaWcAAtn5n.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+515/792 media/606310174874304512-CGnTKHvUQAIv-eQ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+516/792 media/606019705342685184-CGkDU-pWwAAUatA.png: SUCCESS. New version is  20% larger in bytes and 116% larger in pixels. 0.1MB downloaded
+517/792 media/606004584713199616-CGgJ0DHUgAAQJPD.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+518/792 media/1493547730786045956-FLoltUkXsAEesbj.jpg: SUCCESS. New version is 170% larger in bytes and 337% larger in pixels. 0.2MB downloaded
+519/792 media/1491884194582179846-FLQ8xEhXIAE9_5M.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+520/792 media/1491859944873902084-FLQmsrvXoAcZitd.jpg: SUCCESS. New version is  35% larger in bytes and  65% larger in pixels. 0.2MB downloaded
+521/792 media/605679540350922752-CGfOU1VXEAAxj49.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+522/792 media/604289204579880960-CGLdzp_WwAEhUgh.jpg: SUCCESS. New version is 418% larger in bytes and 640% larger in pixels. 0.7MB downloaded
+523/792 media/602044175442440192-CFrjy0yWEAAUwtO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+524/792 media/601852990094483457-CFo1bBzW0AA0qbq.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+525/792 media/600729940829577216-CFY3khqUMAEKSIn.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+526/792 media/600581243172986880-CFDRW3oUEAEbIIq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+527/792 media/597792071181807617-CEvBPeGW8AAgwub.jpg: SUCCESS. New version is 603% larger in bytes and 1375% larger in pixels. 1.0MB downloaded
+528/792 media/597791918991486978-CEvAQZ_WgAAcG4d.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+529/792 media/597773664420024320-CEusjqnWgAIYDxh.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+530/792 media/597649772124753920-CEtHS4NVAAAnwV0.jpg: SUCCESS. New version is 265% larger in bytes and 475% larger in pixels. 0.7MB downloaded
+531/792 media/596971120160579584-CEjXSr7WgAAhnAB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+532/792 media/596594629396561920-CEeHSskVEAAELPe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+533/792 media/595278491244986368-CELWxVeVEAASb6V.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+534/792 media/595122601527267328-CEJM0YCUEAA8i8D.png: SUCCESS. New version is 109% larger in bytes and 152% larger in pixels. 1.9MB downloaded
+535/792 media/1489234494280413185-FKrP69UWUAE4Tjf.jpg: SUCCESS. New version is  16% larger in bytes and  54% larger in pixels. 0.1MB downloaded
+536/792 media/1488998359818022920-FKnvg-8aUAASuty.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+537/792 media/1488996140037070853-FKnqOkWWQAERlNu.jpg: SUCCESS. New version is 135% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+538/792 media/593828841283579904-CD20LOnWEAAA97H.jpg: SUCCESS. New version is actually  13% smaller in bytes but  14% larger in pixels. 0.2MB downloaded
+539/792 media/593670970335956992-CD0kiFwW0AAoHK3.png: SUCCESS. New version is  49% larger in bytes and  67% larger in pixels. 0.1MB downloaded
+540/792 media/591556826065457152-CDWUOxrWIAA82fI.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+541/792 media/590520664576172032-CDHzaMaVIAEQ01F.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+542/792 media/589491286085922816-CC5BqV4W8AA5pHb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+543/792 media/589369172309716992-CC3cIvUXIAAl-qO.jpg: SUCCESS. New version is actually  16% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+544/792 media/587943485220741122-CCjB_bUWAAAV3Uc.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+545/792 media/587943474688843777-CCi6G3jUkAAttTJ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+546/792 media/1487477182784016387-FKSQjFjXsAARm-Q.jpg: SUCCESS. New version is  41% larger in bytes and  76% larger in pixels. 0.2MB downloaded
+547/792 media/1486727249084571654-FKCklN6WUAo4U9D.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+548/792 media/583781972478042113-CBoCmjQUsAAW8xp.jpg: SUCCESS. New version is 202% larger in bytes and 337% larger in pixels. 1.0MB downloaded
+549/792 media/583634997296304130-CBl88AIUkAAuVEO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+550/792 media/582560299837997058-CBWrgJVUMAA9Bg4.jpg: SUCCESS. New version is 332% larger in bytes and 640% larger in pixels. 0.8MB downloaded
+551/792 media/580728636472442880-CA8nhTtUMAALrqM.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+552/792 media/578212715312902144-CAY4pzjWYAAbuxe.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+553/792 media/577831277623156736-CATee_PWMAAKTBU.jpg: SUCCESS. New version is 195% larger in bytes and 640% larger in pixels. 0.3MB downloaded
+554/792 media/577765617949925376-CASixFkWYAAle97.jpg: SUCCESS. New version is 271% larger in bytes and 640% larger in pixels. 0.5MB downloaded
+555/792 media/576739498035384320-CADiRACWQAA9mGY.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+556/792 media/1483093518159847426-FJUBsN0XIAA8P7-.jpg: SUCCESS. New version is 128% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+557/792 media/1483028640656990208-FJQUQ40UUAE2-zD.jpg: SUCCESS. New version is 161% larger in bytes and 300% larger in pixels. 0.1MB downloaded
+558/792 media/574652113277579266-B_mTDSTUgAA4VMh.png: SUCCESS. New version is actually  34% smaller in bytes but  57% larger in pixels. 0.0MB downloaded
+559/792 media/574293278662770688-B_hMsXXUgAA5Ivx.png: SUCCESS. New version is  16% larger in bytes and  27% larger in pixels. 1.0MB downloaded
+560/792 media/573453234175623168-B_VQrU-UcAEan-C.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+561/792 media/572265480561532928-B_CcHNvUQAATHL9.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+562/792 media/571404949696974848-B-3q4VMUMAAJM8T.jpg: SUCCESS. New version is 409% larger in bytes and 1065% larger in pixels. 0.9MB downloaded
+563/792 media/568279123161948160-B-Lu2b7CQAAQluO.png: SUCCESS. New version is 101% larger in bytes and  33% larger in pixels. 0.1MB downloaded
+564/792 media/1479402127462121473-FIfkYOpXMAMCAUb.jpg: SUCCESS. New version is  19% larger in bytes and  34% larger in pixels. 0.1MB downloaded
+565/792 media/1477646722008502275-FIGLgk-XsAE5mGL.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+566/792 media/565825593535897600-B9o3YPMIAAA3UXg.png: SUCCESS. New version is  63% larger in bytes and   0% larger in pixels. 0.1MB downloaded
+567/792 media/565464039921565696-B9jujC7IYAA4Pm_.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+568/792 media/563567116226674688-B9IxTg6CEAAizy0.png: SUCCESS. New version is 111% larger in bytes and 174% larger in pixels. 0.2MB downloaded
+569/792 media/561146681719533568-B8mX7uACYAESIAz.png: SUCCESS. New version is  66% larger in bytes and   2% larger in pixels. 0.3MB downloaded
+570/792 media/1473877036200603655-FHNT_giX0AcXxgX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+571/792 media/1473877036200603655-FHNTvjuWQAANPge.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+572/792 media/1473877036200603655-FHNTxTJXIAEPFg4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+573/792 media/1473877036200603655-FHNTzGwWQAAn1aI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+574/792 media/1473307541010538508-FHI9YTnX0AA8OHC.jpg: SUCCESS. New version is  91% larger in bytes and 162% larger in pixels. 0.0MB downloaded
+575/792 media/560360804739194881-B8YZRp_IAAEW7U5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+576/792 media/557972087714086913-B75OmTYCIAASMzg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+577/792 media/557930501944901632-B74q056CAAEK33K.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+578/792 media/557839587159326720-B73YJQYIcAA33MI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+579/792 media/557831548205297665-B73Q1DVIEAA1oAB.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+580/792 media/557815685699870721-B73CaC2IcAEt13E.jpg: SUCCESS. New version is 325% larger in bytes and 640% larger in pixels. 0.6MB downloaded
+581/792 media/555740534036504576-B7ZjEekCAAAjJXY.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+582/792 media/555632074733133824-B7YAbS1CcAAwXzr.png: SUCCESS. New version is 203% larger in bytes and 178% larger in pixels. 0.4MB downloaded
+583/792 media/555347586320969728-B7T9rr9CEAE_i5F.png: SUCCESS. New version is 203% larger in bytes and 343% larger in pixels. 0.2MB downloaded
+584/792 media/554224951025479680-B7D4WbPIMAA7sG1.png: SUCCESS. New version is actually  62% smaller in bytes but  70% larger in pixels. 0.1MB downloaded
+585/792 media/549870003743637504-B6GH2QNCAAAysAh.jpg: SUCCESS. New version is 330% larger in bytes and 640% larger in pixels. 0.6MB downloaded
+586/792 media/543326574087790592-B4pIo5vCEAARaB8.png: SUCCESS. New version is  39% larger in bytes and  60% larger in pixels. 1.2MB downloaded
+587/792 media/541895456964771842-B4UzC3cIIAE6O2o.jpg: SUCCESS. New version is actually  15% smaller in bytes but  14% larger in pixels. 0.2MB downloaded
+588/792 media/538993600009621504-B3nJujmIMAAVV17.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+589/792 media/537291626901954561-B3TX4vrCAAAnOQK.png: SUCCESS. New version is  41% larger in bytes and  60% larger in pixels. 1.1MB downloaded
+590/792 media/535781394728112128-B296U39CEAAeaut.jpg: SUCCESS. New version is 322% larger in bytes and 640% larger in pixels. 1.1MB downloaded
+591/792 media/535122127788056576-B20enyNCUAA935Y.png: SUCCESS. New version is 233% larger in bytes and 273% larger in pixels. 1.3MB downloaded
+592/792 media/534848956199469056-B2wqSoLCAAAX-e8.jpg: SUCCESS. New version is 238% larger in bytes and 640% larger in pixels. 0.3MB downloaded
+593/792 media/534566135853629440-B2spESuCMAEkPiG.jpg: SUCCESS. New version is actually  17% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+594/792 media/1469176547215036419-FGLr6KYWYAUjY28.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+595/792 media/1469171154434801666-FGOLYGuXMAg2YVP.jpg: SUCCESS. New version is  94% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+596/792 media/531720344647004160-B2EM1ceCUAAISvn.png: SUCCESS. New version is  38% larger in bytes and  60% larger in pixels. 0.9MB downloaded
+597/792 media/530050284073267200-B1sd7CFIUAEByVZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+598/792 media/530050042368131072-B1sds8dCEAAnowy.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+599/792 media/528851273433743361-B1bbZQPCEAA8V6Z.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+600/792 media/528671154836619264-B1Y3m9wIQAAV1tC.jpg: SUCCESS. New version is  45% larger in bytes and 136% larger in pixels. 0.3MB downloaded
+601/792 media/528545205977645056-B1XFDeYCcAAk5JU.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+602/792 media/528166403640025088-B1RshPjIIAAvt_k.jpg: SUCCESS. New version is 1413% larger in bytes and 2859% larger in pixels. 0.6MB downloaded
+603/792 media/528109563115876352-B1Q42LgCMAACo-q.jpg: SUCCESS. New version is 1476% larger in bytes and 2859% larger in pixels. 0.6MB downloaded
+604/792 media/527781137717157889-B1MOJS4CcAANfG9.jpg: SUCCESS. New version is 1448% larger in bytes and 2859% larger in pixels. 0.4MB downloaded
+605/792 media/524987710873034753-B0khikZCcAAs9Sa.png: SUCCESS. New version is 284% larger in bytes and 541% larger in pixels. 1.1MB downloaded
+606/792 media/524892880356532224-B0jLSvVIYAAOrw9.png: SUCCESS. New version is 139% larger in bytes and 445% larger in pixels. 0.1MB downloaded
+607/792 media/524439736996597760-B0cvKMcCEAAg6Uj.jpg: SUCCESS. New version is 558% larger in bytes and 1069% larger in pixels. 0.3MB downloaded
+608/792 media/521934577024376832-Bz5H5uQIQAAeOfV.png: SUCCESS. New version is 254% larger in bytes and 332% larger in pixels. 0.8MB downloaded
+609/792 media/521552668343664641-BzztYoGCcAAl8Cz.png: SUCCESS. New version is 288% larger in bytes and 540% larger in pixels. 1.2MB downloaded
+610/792 media/517984347006468098-BzBABIICEAEk4dN.png: SUCCESS. New version is  45% larger in bytes and  88% larger in pixels. 0.3MB downloaded
+611/792 media/517670538370891776-By8g9h0CEAAWME5.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+612/792 media/516484619043352576-ByrsBdOIIAA5g8h.png: SUCCESS. New version is 272% larger in bytes and 540% larger in pixels. 1.0MB downloaded
+613/792 media/514654648679297024-ByRrqrPIQAAoT91.png: SUCCESS. New version is actually  34% smaller in bytes but  14% larger in pixels. 0.2MB downloaded
+614/792 media/514355082302066688-ByNbOI2IgAAI0gG.png: SUCCESS. New version is 294% larger in bytes and 540% larger in pixels. 1.0MB downloaded
+615/792 media/513350416369983488-Bx_JezMIUAAJhPU.jpg: SUCCESS. New version is 630% larger in bytes and 1065% larger in pixels. 0.3MB downloaded
+616/792 media/513278722196377600-Bx-AarWIcAAPUcS.jpg: SUCCESS. New version is 126% larger in bytes and 192% larger in pixels. 0.1MB downloaded
+617/792 media/513278689170448384-Bx9-5PECQAETBb-.jpg: SUCCESS. New version is 130% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+618/792 media/512123495204278272-BxttbB9IYAEE8WK.jpg: SUCCESS. New version is  90% larger in bytes and 156% larger in pixels. 0.1MB downloaded
+619/792 media/511904062712078336-BxqmBudCYAAuX9O.png: SUCCESS. New version is 278% larger in bytes and 540% larger in pixels. 1.0MB downloaded
+620/792 media/510348811345346560-BxUfid5IEAAVm1Y.png: SUCCESS. New version is 291% larger in bytes and 540% larger in pixels. 1.2MB downloaded
+621/792 media/509780176897863681-BxMaRHeIcAAIhpb.png: SUCCESS. New version is 217% larger in bytes and 615% larger in pixels. 0.3MB downloaded
+622/792 media/508865809398394880-Bw_awaZIEAEh5MA.png: SUCCESS. New version is 228% larger in bytes and 542% larger in pixels. 0.4MB downloaded
+623/792 media/507863650812854272-BwxLTFrCIAAmWuq.png: SUCCESS. New version is 206% larger in bytes and 542% larger in pixels. 0.4MB downloaded
+624/792 media/507768619481464832-Bwv03jqIUAAoww6.png: SUCCESS. New version is  26% larger in bytes and  80% larger in pixels. 0.3MB downloaded
+625/792 media/507523572819296256-Bwr9SYvIYAAkAEH.jpg: SUCCESS. New version is 128% larger in bytes and 156% larger in pixels. 0.2MB downloaded
+626/792 media/507496403946721280-Bwr9SYvIYAAkAEH.jpg: SUCCESS. New version is 128% larger in bytes and 156% larger in pixels. 0.2MB downloaded
+627/792 media/506784928345116673-BwhzjWRCMAAnCRO.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+628/792 media/505628076316061696-BwRaDGVCQAAh_Qa.jpg: SUCCESS. New version is 130% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+629/792 media/505384316650938368-BwN8W3LIcAAfmwP.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+630/792 media/1464139149905125379-FFGqyrTWYBMfzBs.jpg: SUCCESS. New version is 414% larger in bytes and 791% larger in pixels. 0.5MB downloaded
+631/792 media/1463117842744848390-FE4JvESWQAghkcg.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+632/792 media/504509478994477056-Bv9qjXfCEAAitGZ.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+633/792 media/504179620942733312-Bv80sVTIAAEAlpQ.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+634/792 media/499812800613863424-BtBFgILCQAABOTF.png: SUCCESS. New version is 188% larger in bytes and 353% larger in pixels. 0.5MB downloaded
+635/792 media/499121306148016128-Buy_jGvIIAAq1Uy.jpg: SUCCESS. New version is  87% larger in bytes and 129% larger in pixels. 0.1MB downloaded
+636/792 media/491588135093305344-BtJ4zarCYAApNWC.jpg: SUCCESS. New version is   4% larger in bytes and   1% larger in pixels. 0.0MB downloaded
+637/792 media/487747947975962625-BsTUKc1IEAA-bSi.jpg: SUCCESS. New version is 132% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+638/792 media/486654249083088896-BsDxckWCYAAT7rE.jpg: SUCCESS. New version is  50% larger in bytes and  64% larger in pixels. 0.1MB downloaded
+639/792 media/486351663696199680-Br-oGQrIQAAE1iY.png: SUCCESS. New version is  21% larger in bytes and  21% larger in pixels. 0.5MB downloaded
+640/792 media/1460855523239157766-FEYAWp7XIAEtzAI.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+641/792 media/482221376217284608-BrDuDl-IIAAeN9b.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+642/792 media/477290451591266304-Bp9BMb1IAAAhEn9.jpg: SUCCESS. New version is 143% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+643/792 media/473845395073019904-BpNceh1CYAM0D7o.jpg: SUCCESS. New version is 131% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+644/792 media/473086820582838273-BpC99OVCMAEXuGa.jpg: SUCCESS. New version is  73% larger in bytes and  94% larger in pixels. 0.1MB downloaded
+645/792 media/470205008643121152-BoaA9sQIYAAH1Qe.jpg: SUCCESS. New version is  46% larger in bytes and  64% larger in pixels. 0.1MB downloaded
+646/792 media/467177173347209217-Bnu_Ke1IIAAFxyE.jpg: SUCCESS. New version is 143% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+647/792 media/465897722869198848-BncURCCIIAA2KDK.jpg: SUCCESS. New version is 144% larger in bytes and 193% larger in pixels. 0.1MB downloaded
+648/792 media/464002857147334658-BnBFdfjCIAApYg9.jpg: SUCCESS. New version is 119% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+649/792 media/463686610371239936-Bm9Yg-JIUAAIzqQ.jpg: SUCCESS. New version is 532% larger in bytes and 1065% larger in pixels. 0.2MB downloaded
+650/792 media/459774104271605760-BmFup0iCcAAB2BV.png: SUCCESS. New version is 439% larger in bytes and 919% larger in pixels. 1.3MB downloaded
+651/792 media/458938870768623617-Bl518MCCcAEViVK.png: SUCCESS. New version is actually  43% smaller in bytes but  21% larger in pixels. 0.0MB downloaded
+652/792 media/450947915776008192-BkIUvzFCQAE9AOp.jpg: SUCCESS. New version is 761% larger in bytes and 1068% larger in pixels. 0.1MB downloaded
+653/792 media/450854391441293312-BkG5rN3CEAAHfgp.png: SUCCESS. New version is 261% larger in bytes and 300% larger in pixels. 1.5MB downloaded
+654/792 media/449905059829415936-Bj5iRJ9IEAAzcv-.jpg: SUCCESS. New version is 125% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+655/792 media/1456549318106751005-FDaz3hqXIA4PmeT.jpg: SUCCESS. New version is  60% larger in bytes and 127% larger in pixels. 0.1MB downloaded
+656/792 media/1456549318106751005-FDaz4IuXIIMrNnr.jpg: SUCCESS. New version is  67% larger in bytes and 127% larger in pixels. 0.1MB downloaded
+657/792 media/1456548483247316998-FDazEzAXICEdYjm.jpg: SUCCESS. New version is  63% larger in bytes and 125% larger in pixels. 0.1MB downloaded
+658/792 media/1452618616751407111-FCi867UWYAcLAhH.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+659/792 media/448460538688049152-BjgG0KQCQAAKq9j.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+660/792 media/446558152734298112-BjJ6QIYCAAA2J_Z.jpg: SUCCESS. New version is  20% larger in bytes and  30% larger in pixels. 0.0MB downloaded
+661/792 media/444533305091063808-BitMr3zIgAAvfIQ.jpg: SUCCESS. New version is 158% larger in bytes and 191% larger in pixels. 0.0MB downloaded
+662/792 media/444103055089225728-BinFYCICEAA8-pS.png: SUCCESS. New version is  13% larger in bytes and 169% larger in pixels. 0.0MB downloaded
+663/792 media/444057027737059328-BimZtUCIgAAeyix.jpg: SUCCESS. New version is  14% larger in bytes and  21% larger in pixels. 0.0MB downloaded
+664/792 media/443655761538076672-BiebYYACYAAomsx.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+665/792 media/436403098584879104-Bg4R7CvIAAA909c.jpg: SUCCESS. New version is  41% larger in bytes and  64% larger in pixels. 0.1MB downloaded
+666/792 media/436035668805185536-Bg0cIWVIgAA4qkn.png: SUCCESS. New version is actually  29% smaller in bytes but  14% larger in pixels. 0.1MB downloaded
+667/792 media/434373415634747392-BgNUvOAIgAAuKX4.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+668/792 media/1450423561328504834-FCC68--XsAE-l8U.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+669/792 media/1450334160879591424-FCCfOrFX0AUaTp9.jpg: SUCCESS. New version is  17% larger in bytes and  36% larger in pixels. 0.1MB downloaded
+670/792 media/431128747442720768-BfutT7OIgAAt03a.jpg: SUCCESS. New version is 687% larger in bytes and 1565% larger in pixels. 0.3MB downloaded
+671/792 media/430683233114935296-BfoW_wBIgAA9olf.jpg: SUCCESS. New version is 501% larger in bytes and 1014% larger in pixels. 0.2MB downloaded
+672/792 media/425987251609554944-BelpJewIMAA8sz6.jpg: SUCCESS. New version is 657% larger in bytes and 1065% larger in pixels. 0.2MB downloaded
+673/792 media/425945958577635328-BelDl6PIYAAPoh9.jpg: SUCCESS. New version is 713% larger in bytes and 1065% larger in pixels. 0.3MB downloaded
+674/792 media/425649677334478848-Beg2IEAIQAEFcjZ.jpg: SUCCESS. New version is 1088% larger in bytes and 1065% larger in pixels. 0.7MB downloaded
+675/792 media/424073225271001088-BeFblfnIcAAPqUX.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+676/792 media/423774925728387072-BeGNDLlCEAAhDA0.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+677/792 media/423542107203059712-BeCBJciIYAA6d5M.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+678/792 media/423390018284318720-BeAYKjICIAAhG_d.png: SUCCESS. New version is 665% larger in bytes and 919% larger in pixels. 2.5MB downloaded
+679/792 media/1581309128735354882-FfG7eRNXoAAff_E.jpg: SUCCESS. New version is  35% larger in bytes and  15% larger in pixels. 0.2MB downloaded
+680/792 media/1581141269534846977-FfFLWibVUAEdfsc.jpg: SUCCESS. New version is  81% larger in bytes and 156% larger in pixels. 0.1MB downloaded
+681/792 media/1580526500465774594-Fe8oeRcX0AAZ4tz.jpg: SUCCESS. New version is 138% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+682/792 media/1580488684792844289-Fe8GEy4XEAEj7EQ.jpg: SUCCESS. New version is 144% larger in bytes and 191% larger in pixels. 0.5MB downloaded
+683/792 media/1580460323265708033-Fe7sSG0XEAERYtw.jpg: SUCCESS. New version is 126% larger in bytes and 191% larger in pixels. 0.4MB downloaded
+684/792 media/1447515822298120196-FBV2jK4XEAkBZWl.jpg: SUCCESS. New version is actually   5% smaller in bytes but   7% larger in pixels. 0.1MB downloaded
+685/792 media/391190627624714240-BW3JzZOIMAAO2i0.jpg: SUCCESS. New version is 305% larger in bytes and 555% larger in pixels. 0.2MB downloaded
+686/792 media/1445360645646557193-FA7z2CRX0AARPEn.jpg: SUCCESS. New version is  92% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+687/792 media/1445294417372454920-FA63nCZXIAAEteO.png: SUCCESS. New version is actually  27% smaller in bytes but  61% larger in pixels. 0.0MB downloaded
+688/792 media/1445293088214339587-FA6oQz8WEAElIo_.jpg: SUCCESS. New version is 114% larger in bytes and 191% larger in pixels. 0.6MB downloaded
+689/792 media/1443867328228298752-FAj5nwbVgAEPPSk.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+690/792 media/1442426436292210698-FASHL2sXEAAgw38.jpg: SUCCESS. New version is 638% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+691/792 media/1440970426922979329-E_9a9OIXsAEx58R.jpg: SUCCESS. New version is  81% larger in bytes and 141% larger in pixels. 0.1MB downloaded
+692/792 media/1438741132675006464-E_dvbfnX0AEhJXf.jpg: SUCCESS. New version is  65% larger in bytes and 142% larger in pixels. 0.0MB downloaded
+693/792 media/1438169609207681025-E_VnlswXEAYLTAa.jpg: SUCCESS. New version is  78% larger in bytes and 149% larger in pixels. 0.1MB downloaded
+694/792 media/1438169609207681025-E_VnmTIWYAcaud9.jpg: SUCCESS. New version is  56% larger in bytes and  98% larger in pixels. 0.1MB downloaded
+695/792 media/1435897489421475840-E-1VJuVXsAMpLM0.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+696/792 media/1435500502976978945-E-vsGNGXIAM5T_b.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+697/792 media/1428635290365792256-E9OIJ10XsAE2rRs.jpg: SUCCESS. New version is 102% larger in bytes and 192% larger in pixels. 0.2MB downloaded
+698/792 media/1428314745732575243-E9JkWIXXsA4WYfg.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+699/792 media/1427988706372329478-E9E8ITcWUAU8k7C.jpg: SUCCESS. New version is 268% larger in bytes and 558% larger in pixels. 0.3MB downloaded
+700/792 media/1426119492816490496-E8qYHV5XMAAWx6f.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+701/792 media/1425707151230656519-E8kPU46WEAEvTo_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+702/792 media/1579423890799226880-Fes6jbVXwAAix_L.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+703/792 media/1423176582525591552-E79qh4iXMAA62Pl.jpg: SUCCESS. New version is 1344% larger in bytes and 4560% larger in pixels. 0.4MB downloaded
+704/792 media/1422484955050004480-E72uhrPXsAAlc_j.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+705/792 media/1420236159054225409-E7VZ1eaWEAAOXmV.jpg: SUCCESS. New version is 600% larger in bytes and 236% larger in pixels. 0.4MB downloaded
+706/792 media/1418142592533938178-E65BK2DXEAEXaTI.jpg: SUCCESS. New version is  88% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+707/792 media/1417480434661924867-E6vhOPpXIAE73Q3.jpg: SUCCESS. New version is  57% larger in bytes and  98% larger in pixels. 0.1MB downloaded
+708/792 media/1415901705863155712-E6ZLFwpWUAMZUMS.jpg: SUCCESS. New version is 633% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+709/792 media/1415730365248020482-E6WR_zpWYAIe9Dv.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+710/792 media/1411991501660377090-E5hjybOXoAE7QBb.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+711/792 media/1410095745039056904-E5Gqmq-XIAQtW-E.jpg: SUCCESS. New version is  91% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+712/792 media/1408120617673580548-E4qmLJlX0AAmedp.jpg: SUCCESS. New version is  17% larger in bytes and  27% larger in pixels. 0.2MB downloaded
+713/792 media/1405561388718866443-E4GOoYJX0AAHLE5.jpg: SUCCESS. New version is  94% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+714/792 media/1402891088260698112-E3gR_HKWYAAkE5z.jpg: SUCCESS. New version is  30% larger in bytes and  57% larger in pixels. 0.0MB downloaded
+715/792 media/1402662348364595206-E3dB-BPXMAMepsV.jpg: SUCCESS. New version is  99% larger in bytes and 191% larger in pixels. 0.2MB downloaded
+716/792 media/1400073481228795908-E24PZVIXwAcgWuz.jpg: SUCCESS. New version is 206% larger in bytes and 355% larger in pixels. 0.3MB downloaded
+717/792 media/1399714084694671363-E2zIUptXEAYQWKu.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+718/792 media/1576112128326479872-Fd95Q2RXEAE2wx-.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+719/792 media/1576112122651873280-Fd94_M1WQAAfBBi.jpg: SUCCESS. New version is  68% larger in bytes and 111% larger in pixels. 0.1MB downloaded
+720/792 media/1576112116033286145-Fd94tIyX0AIm6jH.jpg: SUCCESS. New version is 416% larger in bytes and 1019% larger in pixels. 0.3MB downloaded
+721/792 media/1576112108139577346-Fd94X9LXEAE2Ihw.jpg: SUCCESS. New version is 129% larger in bytes and 227% larger in pixels. 0.1MB downloaded
+722/792 media/1576112102028500998-Fd94HYzXoAAi24o.jpg: SUCCESS. New version is 102% larger in bytes and 150% larger in pixels. 0.1MB downloaded
+723/792 media/1576112096407801856-Fd93zFNXgAAfCsy.jpg: SUCCESS. New version is 170% larger in bytes and 291% larger in pixels. 0.1MB downloaded
+724/792 media/1576112089856241664-Fd93i7KXEAUXVa7.jpg: SUCCESS. New version is 304% larger in bytes and 652% larger in pixels. 0.2MB downloaded
+725/792 media/1576112081925181441-Fd93SpxWIAAJi9o.jpg: SUCCESS. New version is 203% larger in bytes and 412% larger in pixels. 0.2MB downloaded
+726/792 media/1576112075583389696-Fd928pGXkAAhLaU.jpg: SUCCESS. New version is 152% larger in bytes and 249% larger in pixels. 0.2MB downloaded
+727/792 media/1576112069602344962-Fd92rAZWQAAgWOa.jpg: SUCCESS. New version is  23% larger in bytes and  40% larger in pixels. 0.1MB downloaded
+728/792 media/1576112053290668032-Fd92UstX0AERs89.jpg: SUCCESS. New version is 245% larger in bytes and 417% larger in pixels. 0.3MB downloaded
+729/792 media/1576112046344900608-Fd91-1iWAAAVxSc.jpg: SUCCESS. New version is 278% larger in bytes and 551% larger in pixels. 0.1MB downloaded
+730/792 media/1576112038145069057-Fd91jc_XwAAUTMh.jpg: SUCCESS. New version is 272% larger in bytes and 540% larger in pixels. 0.2MB downloaded
+731/792 media/1576112030259744770-Fd91MxnWQAEoX4Z.jpg: SUCCESS. New version is 314% larger in bytes and 721% larger in pixels. 0.2MB downloaded
+732/792 media/1576112022756134912-Fd903B2X0AA7d3A.jpg: SUCCESS. New version is 272% larger in bytes and 501% larger in pixels. 0.1MB downloaded
+733/792 media/1576112015906861056-Fd90bcbXwAAcp2-.jpg: SUCCESS. New version is 256% larger in bytes and 530% larger in pixels. 0.2MB downloaded
+734/792 media/1576112008696856577-Fd90G6dXgAAnHPr.jpg: SUCCESS. New version is 151% larger in bytes and 261% larger in pixels. 0.1MB downloaded
+735/792 media/1576112002493485056-Fd9zzoxXwAEDAOi.jpg: SUCCESS. New version is  27% larger in bytes and  51% larger in pixels. 0.1MB downloaded
+736/792 media/1398176800417619968-E2dSW7RWUAgY-mF.jpg: SUCCESS. New version is 661% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+737/792 media/1397506457961181185-E2TwXVUWQAMtmq_.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+738/792 media/1395737889665953793-E16oNRLXsAQGYe9.jpg: SUCCESS. New version is 152% larger in bytes and 191% larger in pixels. 0.7MB downloaded
+739/792 media/1395447480691609607-E12gFZRWQAAK1Ei.jpg: SUCCESS. New version is 154% larger in bytes and 191% larger in pixels. 0.3MB downloaded
+740/792 media/1392470041552166912-E1ML-EJXsAAAZ2w.jpg: SUCCESS. New version is 574% larger in bytes and 1720% larger in pixels. 0.6MB downloaded
+741/792 media/1392170639327469570-E1H7xQSXoAYiLpf.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+742/792 media/1392051963269890050-E1GP4CRX0AI2H1v.jpg: SUCCESS. New version is 648% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+743/792 media/1390608000147144705-E0xumfdX0AM8lmZ.jpg: SUCCESS. New version is  86% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+744/792 media/1389905964585951236-E0nwGcxWUAMqZf5.jpg: SUCCESS. New version is  79% larger in bytes and 141% larger in pixels. 0.0MB downloaded
+745/792 media/1388177032874532864-E0OlP9hWYAE7BXi.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+746/792 media/1388049273703436293-E0NXcFHWQAAhWEk.jpg: SUCCESS. New version is 628% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+747/792 media/1386730098250944523-Ez6TBJPWEAITykp.png: SUCCESS. New version is actually  66% smaller in bytes but  33% larger in pixels. 0.1MB downloaded
+748/792 media/1386610553465053185-Ez46PvLWEAE0hjj.jpg: SUCCESS. New version is  48% larger in bytes and 127% larger in pixels. 0.1MB downloaded
+749/792 media/1384779526442561536-EzcthB8VIAU4HVr.jpg: SUCCESS. New version is  29% larger in bytes and  51% larger in pixels. 0.2MB downloaded
+750/792 media/1382599242624155648-Ey_6rHWWEAA3HXJ.jpg: SUCCESS. New version is 659% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+751/792 media/1382191506526773250-Ey6H2SYXAAQgURz.jpg: SUCCESS. New version is  80% larger in bytes and 191% larger in pixels. 0.1MB downloaded
+752/792 media/1380460938625744899-Eyhh46tXMAEYcO3.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+753/792 media/1378557799005839361-EyELxlVXIAAG4l2.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+754/792 media/1378557799005839361-EyELxkhW8AMJ0xq.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+755/792 media/1576111996378152960-Fd9zedsWAAAX9at.jpg: SUCCESS. New version is  94% larger in bytes and 202% larger in pixels. 0.1MB downloaded
+756/792 media/1576111989944111104-Fd9zJ2MWIAI5P9-.jpg: SUCCESS. New version is  81% larger in bytes and 144% larger in pixels. 0.1MB downloaded
+757/792 media/1576111983899791362-Fd9y7aVXEAIy1ff.jpg: SUCCESS. New version is  71% larger in bytes and 121% larger in pixels. 0.1MB downloaded
+758/792 media/1576111976937574400-Fd9yoNpXkAEYGuE.jpg: SUCCESS. New version is 271% larger in bytes and 589% larger in pixels. 0.1MB downloaded
+759/792 media/1576103675503648768-Fd9xcdEX0AArHfo.jpg: SUCCESS. New version is 302% larger in bytes and 622% larger in pixels. 0.2MB downloaded
+760/792 media/1576103668054896640-Fd9xZULWYAAH6zw.jpg: SUCCESS. New version is 246% larger in bytes and 530% larger in pixels. 0.1MB downloaded
+761/792 media/1576103660907823104-Fd9xWqLXoAIbH6x.jpg: SUCCESS. New version is 199% larger in bytes and 465% larger in pixels. 0.2MB downloaded
+762/792 media/1576103653785554949-Fd9xT_5WIAA3srm.jpg: SUCCESS. New version is 143% larger in bytes and 288% larger in pixels. 0.2MB downloaded
+763/792 media/1576103647083393024-Fd9xRRWXEAI6yQs.jpg: SUCCESS. New version is 130% larger in bytes and 265% larger in pixels. 0.2MB downloaded
+764/792 media/1576103640552468480-Fd9xOjSXoAk_SLQ.jpg: SUCCESS. New version is 244% larger in bytes and 480% larger in pixels. 0.1MB downloaded
+765/792 media/1576103634060083205-Fd9xMFrWIA0FZG4.jpg: SUCCESS. New version is 270% larger in bytes and 558% larger in pixels. 0.1MB downloaded
+766/792 media/1576103627399528448-Fd9xJPeXwAAKJgF.jpg: SUCCESS. New version is 304% larger in bytes and 635% larger in pixels. 0.3MB downloaded
+767/792 media/1576103620264996866-Fd9xGSdWAAAWU_9.jpg: SUCCESS. New version is 346% larger in bytes and 787% larger in pixels. 0.1MB downloaded
+768/792 media/1576103612790755335-Fd9xC_CXgAA_twC.jpg: SUCCESS. New version is 149% larger in bytes and 277% larger in pixels. 0.1MB downloaded
+769/792 media/1576103605874016256-Fd9xARkXkAAvHV7.jpg: SUCCESS. New version is 142% larger in bytes and 263% larger in pixels. 0.1MB downloaded
+770/792 media/1576103598584303617-Fd9w9bXWAAEKhw0.jpg: SUCCESS. New version is 154% larger in bytes and 298% larger in pixels. 0.1MB downloaded
+771/792 media/1576103591806279680-Fd9w6guXoAAbCSX.jpg: SUCCESS. New version is 244% larger in bytes and 478% larger in pixels. 0.1MB downloaded
+772/792 media/1576103584935968768-Fd9w3rIWYAA1YvX.jpg: SUCCESS. New version is 215% larger in bytes and 431% larger in pixels. 0.2MB downloaded
+773/792 media/1576103575809273858-Fd9wxb8XoAAtvav.jpg: SUCCESS. New version is 124% larger in bytes and 238% larger in pixels. 0.1MB downloaded
+774/792 media/1372833481185763329-Ew1IwQaWYAITVTL.jpg: SUCCESS. New version is 622% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+775/792 media/1371793292904501250-EwmWt9iWgAYRfhI.jpg: SUCCESS. New version is  56% larger in bytes and 128% larger in pixels. 0.0MB downloaded
+776/792 media/1370398588786860037-EwSiQGUXMAItYVm.jpg: SUCCESS. New version is  60% larger in bytes and 123% larger in pixels. 0.1MB downloaded
+777/792 media/1369876153729683464-EwLHGakXEAcZxeC.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+778/792 media/1369660859727949828-EwH74taWEAEfXrV.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+779/792 media/1369622173279793153-EwHgEtSXAAI-Ldm.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+780/792 media/1369274716196835329-EwCkFsNXYAM5vqp.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+781/792 media/1368204422384353281-EvzD6SwXAAYiBMn.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+782/792 media/1367196107869192195-EvlBmu_WQAAjoTM.jpg: SUCCESS. New version is 635% larger in bytes and 1066% larger in pixels. 0.7MB downloaded
+783/792 media/1367092186211360770-EvjQg-5XcAcjJJf.jpg: SUCCESS. New version is 107% larger in bytes and 121% larger in pixels. 0.1MB downloaded
+784/792 media/1362507796579819530-EuiZR2xUcAMxfsq.jpg: SUCCESS. New version is  11% larger in bytes and  21% larger in pixels. 0.0MB downloaded
+785/792 media/1362496882094800905-EuiPohdWQAATmYM.jpg: SUCCESS. New version is  83% larger in bytes and 153% larger in pixels. 0.1MB downloaded
+786/792 media/1362368063644049411-EugaiCHXMAEg4Ec.png: SUCCESS. New version is   9% larger in bytes and 160% larger in pixels. 0.0MB downloaded
+787/792 media/1362327728100360192-Euf10-tXAAUS_K6.jpg: SUCCESS. New version is  23% larger in bytes and  34% larger in pixels. 0.1MB downloaded
+788/792 media/1361422553135206402-EuS-g2qXMAQXmW-.jpg: SUCCESS. New version is  25% larger in bytes and  49% larger in pixels. 0.1MB downloaded
+789/792 media/1359921041745842176-Et8m7naXUAMK8oe.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+790/792 media/1359789316604637185-Et7xKR2XAAEdMXc.jpg: SUCCESS. New version is  33% larger in bytes and  74% larger in pixels. 0.1MB downloaded
+791/792 media/1357225024760000512-EtXU3ZwXEAMB2pb.jpg: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+792/792 media/1356888498976874498-EtSHcV8XEAI10Ah.png: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+788 of 792 tested media files are known to be the best-quality available.
+
+  1/  4 media/1216788450378121216-cgPSJlUmVsJNGxK3.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  2/  4 media/1553233669044817920-LQMwcGxIuASNSWhg.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  3/  4 media/1176048122524516352-wi4yMXoztlHRkXty.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+  4/  4 media/1108266490040672257-GMXO5KPfngBJqOdC.mp4: SKIPPED. Online version is same byte size, assuming same content. Not downloaded.
+
+4 of 4 tested media files are known to be the best-quality available.
+
+Total downloaded: 153.1MB = 0.15GB
+Time taken: 808s
